@@ -1,5 +1,0 @@
-<root>
-    <item name='org.springframework.aop.target.dynamic.BeanFactoryRefreshableTargetSource java.lang.Object obtainFreshBean(org.springframework.beans.factory.BeanFactory, java.lang.String) 0'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-</root>

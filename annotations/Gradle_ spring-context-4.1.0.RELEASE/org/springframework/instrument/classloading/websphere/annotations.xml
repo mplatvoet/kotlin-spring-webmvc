@@ -1,8 +1,0 @@
-<root>
-    <item name='org.springframework.instrument.classloading.websphere.WebSphereLoadTimeWeaver WebSphereLoadTimeWeaver(java.lang.ClassLoader) 0'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-    <item name='org.springframework.instrument.classloading.websphere.WebSphereLoadTimeWeaver void addTransformer(java.lang.instrument.ClassFileTransformer) 0'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-</root>

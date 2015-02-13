@@ -1,8 +1,0 @@
-<root>
-    <item name='org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator java.util.List&lt;org.springframework.aop.Advisor&gt; sortAdvisors(java.util.List&lt;org.springframework.aop.Advisor&gt;) 0'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-    <item name='org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator void extendAdvisors(java.util.List&lt;org.springframework.aop.Advisor&gt;) 0'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-</root>

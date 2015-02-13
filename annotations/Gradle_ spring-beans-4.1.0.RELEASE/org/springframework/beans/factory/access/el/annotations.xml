@@ -1,5 +1,0 @@
-<root>
-    <item name='org.springframework.beans.factory.access.el.SpringBeanELResolver java.lang.Class&lt;?&gt; getCommonPropertyType(javax.el.ELContext, java.lang.Object)'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-</root>

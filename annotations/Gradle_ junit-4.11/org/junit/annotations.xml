@@ -1,8 +1,0 @@
-<root>
-    <item name='org.junit.Assume void assumeThat(T, org.hamcrest.Matcher&lt;T&gt;) 1'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-    <item name='org.junit.Assume void assumeThat(java.lang.String, T, org.hamcrest.Matcher&lt;T&gt;) 2'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-</root>

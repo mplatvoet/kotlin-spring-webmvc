@@ -1,8 +1,0 @@
-<root>
-    <item name='org.aopalliance.aop.AspectException AspectException(java.lang.String, java.lang.Throwable) 1'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-    <item name='org.aopalliance.aop.AspectException void printStackTrace(java.io.PrintWriter) 0'>
-        <annotation name='org.jetbrains.annotations.NotNull'/>
-    </item>
-</root>
