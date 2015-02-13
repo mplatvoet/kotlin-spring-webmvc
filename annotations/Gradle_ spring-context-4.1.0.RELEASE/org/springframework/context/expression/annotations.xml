@@ -1,0 +1,56 @@
+<root>
+    <item name='org.springframework.context.expression.BeanFactoryAccessor org.springframework.expression.TypedValue read(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.MapAccessor void write(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.StandardBeanExpressionResolver DEFAULT_EXPRESSION_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.EnvironmentAccessor org.springframework.expression.TypedValue read(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.BeanExpressionContextAccessor java.lang.Class&lt;?&gt;[] getSpecificTargetClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.StandardBeanExpressionResolver DEFAULT_EXPRESSION_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.BeanFactoryAccessor java.lang.Class&lt;?&gt;[] getSpecificTargetClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.MapAccessor java.lang.Class&lt;?&gt;[] getSpecificTargetClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.BeanExpressionContextAccessor boolean canRead(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.BeanExpressionContextAccessor org.springframework.expression.TypedValue read(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.BeanFactoryAccessor boolean canRead(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.MapAccessor boolean canRead(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.BeanExpressionContextAccessor org.springframework.expression.TypedValue read(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.EnvironmentAccessor java.lang.Class&lt;?&gt;[] getSpecificTargetClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.BeanFactoryAccessor org.springframework.expression.TypedValue read(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.MapAccessor org.springframework.expression.TypedValue read(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.MapAccessor org.springframework.expression.TypedValue read(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.expression.EnvironmentAccessor org.springframework.expression.TypedValue read(org.springframework.expression.EvaluationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

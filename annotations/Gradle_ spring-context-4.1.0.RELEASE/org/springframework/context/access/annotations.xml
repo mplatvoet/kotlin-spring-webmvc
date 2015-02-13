@@ -1,0 +1,29 @@
+<root>
+    <item name='org.springframework.context.access.ContextSingletonBeanFactoryLocator org.springframework.beans.factory.access.BeanFactoryLocator getInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.access.ContextJndiBeanFactoryLocator org.springframework.beans.factory.access.BeanFactoryReference useBeanFactory(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.access.ContextSingletonBeanFactoryLocator org.springframework.beans.factory.access.BeanFactoryLocator getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.access.ContextJndiBeanFactoryLocator BEAN_FACTORY_PATH_DELIMITERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.access.ContextJndiBeanFactoryLocator org.springframework.context.ApplicationContext createApplicationContext(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.access.DefaultLocatorFactory org.springframework.beans.factory.access.BeanFactoryLocator getInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.access.DefaultLocatorFactory org.springframework.beans.factory.access.BeanFactoryLocator getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.access.ContextSingletonBeanFactoryLocator org.springframework.beans.factory.BeanFactory createDefinition(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.access.ContextJndiBeanFactoryLocator org.springframework.beans.factory.access.BeanFactoryReference createBeanFactory(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

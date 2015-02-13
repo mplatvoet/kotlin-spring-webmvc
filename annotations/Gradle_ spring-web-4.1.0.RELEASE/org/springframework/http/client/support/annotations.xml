@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.http.client.support.ProxyFactoryBean java.lang.Class&lt;?&gt; getObjectType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

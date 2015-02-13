@@ -1,0 +1,209 @@
+<root>
+    <item name='org.springframework.web.servlet.support.WebContentGenerator METHOD_GET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromRequest(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext org.springframework.web.servlet.support.BindStatus getBindStatus(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.JstlUtils void exposeLocalizationContext(javax.servlet.http.HttpServletRequest, org.springframework.context.MessageSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractDispatcherServletInitializer DEFAULT_SERVLET_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer org.springframework.web.context.WebApplicationContext createServletApplicationContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.servlet.ServletRequest, javax.servlet.ServletContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.SessionFlashMapManager void updateFlashMaps(java.util.List&lt;org.springframework.web.servlet.FlashMap&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.JspAwareRequestContext void initContext(javax.servlet.jsp.PageContext, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromCurrentContextPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext RequestContext(javax.servlet.http.HttpServletRequest, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.BindStatus java.lang.String getPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractFlashMapManager void updateFlashMaps(java.util.List&lt;org.springframework.web.servlet.FlashMap&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.support.WebContentGenerator METHOD_HEAD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromCurrentServletMapping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractDispatcherServletInitializer javax.servlet.FilterRegistration.Dynamic registerServletFilter(javax.servlet.ServletContext, javax.servlet.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromCurrentRequestUri()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.WebContentGenerator void checkAndPrepare(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.WebContentGenerator void preventCaching(javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.JspAwareRequestContext JspAwareRequestContext(javax.servlet.jsp.PageContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext org.springframework.web.servlet.support.BindStatus getBindStatus(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.JstlUtils void exposeLocalizationContext(org.springframework.web.servlet.support.RequestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractFlashMapManager java.lang.Object getFlashMapsMutex(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils org.springframework.ui.context.Theme getTheme(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext RequestContext(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromContextPath(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.WebContentGenerator void checkAndPrepare(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractDispatcherServletInitializer java.lang.String getServletName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils org.springframework.web.servlet.LocaleResolver getLocaleResolver(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.WebContentGenerator METHOD_POST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils org.springframework.ui.context.ThemeSource getThemeSource(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils org.springframework.web.servlet.FlashMapManager getFlashMapManager(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils java.util.Map&lt;java.lang.String,?&gt; getInputFlashMap(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils org.springframework.web.servlet.ThemeResolver getThemeResolver(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.JspAwareRequestContext JspAwareRequestContext(javax.servlet.jsp.PageContext, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext void initContext(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, javax.servlet.ServletContext, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils java.util.Locale getLocale(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromServletMapping(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromRequestUri(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromRequest(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext RequestContext(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, javax.servlet.ServletContext, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractDispatcherServletInitializer void registerDispatcherServlet(javax.servlet.ServletContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromRequestUri(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils org.springframework.web.servlet.FlashMap getOutputFlashMap(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext RequestContext(javax.servlet.http.HttpServletRequest, javax.servlet.ServletContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.BindStatus BindStatus(org.springframework.web.servlet.support.RequestContext, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.SessionFlashMapManager java.util.List&lt;org.springframework.web.servlet.FlashMap&gt; retrieveFlashMaps(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext DEFAULT_THEME_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils java.util.TimeZone getTimeZone(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractDispatcherServletInitializer org.springframework.web.context.WebApplicationContext createServletApplicationContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromServletMapping(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext org.springframework.web.servlet.support.BindStatus getBindStatus(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext RequestContext(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractFlashMapManager boolean isFlashMapForRequest(org.springframework.web.servlet.FlashMap, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContextUtils org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.servlet.ServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.BindStatus BindStatus(org.springframework.web.servlet.support.RequestContext, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromCurrentRequest()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractFlashMapManager java.util.List&lt;org.springframework.web.servlet.FlashMap&gt; retrieveFlashMaps(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext org.springframework.ui.context.Theme getFallbackTheme()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.SessionFlashMapManager java.lang.Object getFlashMapsMutex(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.RequestContext org.springframework.web.servlet.support.BindStatus getBindStatus(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractDispatcherServletInitializer void onStartup(javax.servlet.ServletContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractFlashMapManager java.lang.Object getFlashMapsMutex(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.ServletUriComponentsBuilder org.springframework.web.servlet.support.ServletUriComponentsBuilder fromContextPath(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.support.AbstractDispatcherServletInitializer javax.servlet.FilterRegistration.Dynamic registerServletFilter(javax.servlet.ServletContext, javax.servlet.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

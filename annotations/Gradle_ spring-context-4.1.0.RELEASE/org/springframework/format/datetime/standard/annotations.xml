@@ -1,0 +1,50 @@
+<root>
+    <item name='org.springframework.format.datetime.standard.DateTimeFormatterFactory void setStylePattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory org.springframework.format.Parser&lt;?&gt; getParser(org.springframework.format.annotation.DateTimeFormat, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory org.springframework.format.Printer getPrinter(java.lang.annotation.Annotation, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory java.time.format.DateTimeFormatter getFormatter(org.springframework.format.annotation.DateTimeFormat, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.InstantFormatter java.lang.String print(java.lang.Object, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.DateTimeFormatterFactoryBean java.lang.Class&lt;?&gt; getObjectType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory org.springframework.format.Printer&lt;?&gt; getPrinter(org.springframework.format.annotation.DateTimeFormat, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory org.springframework.format.Printer&lt;?&gt; getPrinter(org.springframework.format.annotation.DateTimeFormat, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.TemporalAccessorPrinter java.lang.String print(java.lang.Object, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.format.datetime.standard.DateTimeFormatterRegistrar void registerFormatters(org.springframework.format.FormatterRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.InstantFormatter java.lang.String print(java.time.Instant, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory org.springframework.format.Printer getPrinter(java.lang.annotation.Annotation, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory org.springframework.format.Parser&lt;?&gt; getParser(org.springframework.format.annotation.DateTimeFormat, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory org.springframework.format.Parser getParser(java.lang.annotation.Annotation, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.format.datetime.standard.Jsr310DateTimeFormatAnnotationFormatterFactory org.springframework.format.Parser getParser(java.lang.annotation.Annotation, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

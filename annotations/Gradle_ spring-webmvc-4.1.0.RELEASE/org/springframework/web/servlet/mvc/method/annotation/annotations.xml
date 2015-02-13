@@ -1,0 +1,467 @@
+<root>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMappingJacksonResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor void handleReturnValue(java.lang.Object, org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter INIT_BINDER_METHODS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleMissingServletRequestParameter(org.springframework.web.bind.MissingServletRequestParameterException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletRequestDataBinderFactory org.springframework.web.bind.ServletRequestDataBinder createBinderInstance(java.lang.Object, java.lang.String, org.springframework.web.context.request.NativeWebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleMissingServletRequestPart(org.springframework.web.multipart.support.MissingServletRequestPartException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver java.lang.Object readWithMessageConverters(org.springframework.http.HttpInputMessage, org.springframework.core.MethodParameter, java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletResponseMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestPartMethodArgumentResolver RequestPartMethodArgumentResolver(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver messageConverters'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleExceptionInternal(java.lang.Exception, java.lang.Object, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor AbstractMessageConverterMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;, org.springframework.web.accept.ContentNegotiationManager, java.util.List&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.JsonViewResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor java.lang.Object readWithMessageConverters(org.springframework.web.context.request.NativeWebRequest, org.springframework.core.MethodParameter, java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.PathVariableMethodArgumentResolver org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.NamedValueInfo createNamedValueInfo(org.springframework.core.MethodParameter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ListenableFutureReturnValueHandler boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.CallableMethodReturnValueHandler boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleNoHandlerFoundException(org.springframework.web.servlet.NoHandlerFoundException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.PathVariableMethodArgumentResolver java.lang.Object resolveName(java.lang.String, org.springframework.core.MethodParameter, org.springframework.web.context.request.NativeWebRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver org.springframework.http.server.ServletServerHttpRequest createInputMessage(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder.MethodArgumentBuilder org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder.MethodArgumentBuilder arg(int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleMethodArgumentNotValid(org.springframework.web.bind.MethodArgumentNotValidException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter MODEL_ATTRIBUTE_METHODS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver java.lang.Object readWithMessageConverters(org.springframework.http.HttpInputMessage, org.springframework.core.MethodParameter, java.lang.reflect.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletRequestDataBinderFactory org.springframework.web.bind.WebDataBinder createBinderInstance(java.lang.Object, java.lang.String, org.springframework.web.context.request.NativeWebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RedirectAttributesMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.PathVariableMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleServletRequestBindingException(org.springframework.web.bind.ServletRequestBindingException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MatrixVariableMapMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleHttpMessageNotReadable(org.springframework.http.converter.HttpMessageNotReadableException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor java.util.List&lt;org.springframework.http.MediaType&gt; getProducibleMediaTypes(javax.servlet.http.HttpServletRequest, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractJsonpResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder org.springframework.web.util.UriComponentsBuilder fromMethodName(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor void writeWithMessageConverters(T, org.springframework.core.MethodParameter, org.springframework.http.server.ServletServerHttpRequest, org.springframework.http.server.ServletServerHttpResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder org.springframework.web.util.UriComponentsBuilder fromMethodCall(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleHttpMediaTypeNotAcceptable(org.springframework.web.HttpMediaTypeNotAcceptableException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor org.springframework.http.server.ServletServerHttpResponse createOutputMessage(org.springframework.web.context.request.NativeWebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletCookieValueMethodArgumentResolver java.lang.Object resolveName(java.lang.String, org.springframework.core.MethodParameter, org.springframework.web.context.request.NativeWebRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver java.util.List&lt;org.springframework.web.method.support.HandlerMethodArgumentResolver&gt; getDefaultArgumentResolvers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleBindException(org.springframework.validation.BindException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.PathVariableMethodArgumentResolver void handleResolvedValue(java.lang.Object, java.lang.String, org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor RequestResponseBodyMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;, org.springframework.web.accept.ContentNegotiationManager, java.util.List&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler PAGE_NOT_FOUND_LOG_CATEGORY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletModelAttributeMethodProcessor java.lang.Object createAttributeFromRequestValue(java.lang.String, java.lang.String, org.springframework.core.MethodParameter, org.springframework.web.bind.support.WebDataBinderFactory, org.springframework.web.context.request.NativeWebRequest) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletRequestMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor HttpEntityMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;, org.springframework.web.accept.ContentNegotiationManager, java.util.List&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor org.springframework.http.server.ServletServerHttpResponse createOutputMessage(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletRequestMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AsyncTaskMethodReturnValueHandler boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletCookieValueMethodArgumentResolver java.lang.Object resolveName(java.lang.String, org.springframework.core.MethodParameter, org.springframework.web.context.request.NativeWebRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleHttpMediaTypeNotSupported(org.springframework.web.HttpMediaTypeNotSupportedException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletModelAttributeMethodProcessor java.lang.Object createAttribute(java.lang.String, org.springframework.core.MethodParameter, org.springframework.web.bind.support.WebDataBinderFactory, org.springframework.web.context.request.NativeWebRequest) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.UriComponentsBuilderMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletModelAttributeMethodProcessor java.lang.String getRequestValueForAttribute(java.lang.String, org.springframework.web.context.request.NativeWebRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver AbstractMessageConverterMethodArgumentResolver(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.DeferredResultMethodReturnValueHandler boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter org.springframework.web.method.annotation.InitBinderDataBinderFactory createDataBinderFactory(java.util.List&lt;org.springframework.web.method.support.InvocableHandlerMethod&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor RequestResponseBodyMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;, org.springframework.web.accept.ContentNegotiationManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor HttpEntityMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;, org.springframework.web.accept.ContentNegotiationManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMappingJacksonResponseBodyAdvice java.lang.Object beforeBodyWrite(java.lang.Object, org.springframework.core.MethodParameter, org.springframework.http.MediaType, java.lang.Class&lt;? extends org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping org.springframework.web.servlet.mvc.method.RequestMappingInfo createRequestMappingInfo(org.springframework.web.bind.annotation.RequestMapping, org.springframework.web.servlet.mvc.condition.RequestCondition&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver org.springframework.http.server.ServletServerHttpRequest createInputMessage(org.springframework.web.context.request.NativeWebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MatrixVariableMethodArgumentResolver java.lang.Object resolveName(java.lang.String, org.springframework.core.MethodParameter, org.springframework.web.context.request.NativeWebRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor void writeWithMessageConverters(T, org.springframework.core.MethodParameter, org.springframework.web.context.request.NativeWebRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpHeadersReturnValueHandler boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder org.springframework.web.util.UriComponentsBuilder fromMethod(java.lang.reflect.Method, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpHeadersReturnValueHandler void handleReturnValue(java.lang.Object, org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor void handleReturnValue(java.lang.Object, org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletResponseMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RedirectAttributesMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter org.springframework.web.servlet.ModelAndView handleInternal(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.springframework.web.method.HandlerMethod) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder MVC_URI_COMPONENTS_CONTRIBUTOR_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice T beforeBodyWrite(T, org.springframework.core.MethodParameter, org.springframework.http.MediaType, java.lang.Class&lt;? extends org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor RequestResponseBodyMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.PathVariableMethodArgumentResolver org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.NamedValueInfo createNamedValueInfo(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletModelAttributeMethodProcessor void bindRequestParameters(org.springframework.web.bind.WebDataBinder, org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleHttpRequestMethodNotSupported(org.springframework.web.HttpRequestMethodNotSupportedException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder T on(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver java.util.List&lt;org.springframework.web.method.support.HandlerMethodReturnValueHandler&gt; getDefaultReturnValueHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMappingJacksonResponseBodyAdvice org.springframework.http.converter.json.MappingJacksonValue getOrCreateContainer(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleConversionNotSupported(org.springframework.beans.ConversionNotSupportedException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver java.lang.Object readWithMessageConverters(org.springframework.web.context.request.NativeWebRequest, org.springframework.core.MethodParameter, java.lang.reflect.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder org.springframework.web.util.UriComponentsBuilder fromMethod(java.lang.reflect.Method, java.lang.Object...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder.MethodArgumentBuilder MethodArgumentBuilder(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder T controller(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMappingJacksonResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter void setCallableInterceptors(java.util.List&lt;org.springframework.web.context.request.async.CallableProcessingInterceptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MatrixVariableMethodArgumentResolver org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.NamedValueInfo createNamedValueInfo(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleNoSuchRequestHandlingMethod(org.springframework.web.servlet.mvc.multiaction.NoSuchRequestHandlingMethodException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestPartMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.UriComponentsBuilderMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletModelAttributeMethodProcessor void bindRequestParameters(org.springframework.web.bind.WebDataBinder, org.springframework.web.context.request.NativeWebRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor HttpEntityMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleHttpMessageNotWritable(org.springframework.http.converter.HttpMessageNotWritableException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MatrixVariableMapMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestPartMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.JsonViewResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleHttpMediaTypeNotSupported(org.springframework.web.HttpMediaTypeNotSupportedException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MatrixVariableMethodArgumentResolver org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.NamedValueInfo createNamedValueInfo(org.springframework.core.MethodParameter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver java.lang.Object readWithMessageConverters(org.springframework.web.context.request.NativeWebRequest, org.springframework.core.MethodParameter, java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor AbstractMessageConverterMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;, org.springframework.web.accept.ContentNegotiationManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ModelAndViewMethodReturnValueHandler void handleReturnValue(java.lang.Object, org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ViewNameMethodReturnValueHandler boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleHttpRequestMethodNotSupported(org.springframework.web.HttpRequestMethodNotSupportedException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpHeadersReturnValueHandler void handleReturnValue(java.lang.Object, org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletResponseMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RedirectAttributesMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter org.springframework.web.servlet.ModelAndView handleInternal(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.springframework.web.method.HandlerMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MatrixVariableMethodArgumentResolver void handleMissingValue(java.lang.String, org.springframework.core.MethodParameter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter void setDeferredResultInterceptors(java.util.List&lt;org.springframework.web.context.request.async.DeferredResultProcessingInterceptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractJsonpResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletModelAttributeMethodProcessor java.util.Map&lt;java.lang.String,java.lang.String&gt; getUriTemplateVariables(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleException(java.lang.Exception, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.PathVariableMethodArgumentResolver void contributeMethodArgument(org.springframework.core.MethodParameter, java.lang.Object, org.springframework.web.util.UriComponentsBuilder, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, org.springframework.core.convert.ConversionService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleNoSuchRequestHandlingMethod(org.springframework.web.servlet.mvc.multiaction.NoSuchRequestHandlingMethodException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ExtendedServletRequestDataBinder void addBindValues(org.springframework.beans.MutablePropertyValues, javax.servlet.ServletRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.PathVariableMapMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleException(java.lang.Exception, org.springframework.web.context.request.WebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractJsonpResponseBodyAdvice org.springframework.http.MediaType getContentType(org.springframework.http.MediaType, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder.MethodArgumentBuilder fromMappingName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.JsonViewResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ViewMethodReturnValueHandler boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.UriComponentsBuilderMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MatrixVariableMethodArgumentResolver boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestPartMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping org.springframework.web.servlet.mvc.method.RequestMappingInfo createRequestMappingInfo(org.springframework.web.bind.annotation.RequestMapping, org.springframework.web.servlet.mvc.condition.RequestCondition&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor java.lang.Object readWithMessageConverters(org.springframework.web.context.request.NativeWebRequest, org.springframework.core.MethodParameter, java.lang.reflect.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor boolean supportsParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMappingJacksonResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractJsonpResponseBodyAdvice void beforeBodyWriteInternal(org.springframework.http.converter.json.MappingJacksonValue, org.springframework.http.MediaType, org.springframework.core.MethodParameter, org.springframework.http.server.ServerHttpRequest, org.springframework.http.server.ServerHttpResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor AbstractMessageConverterMethodProcessor(java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder org.springframework.web.util.UriComponentsBuilder fromMethodName(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping java.util.List&lt;java.lang.String&gt; getFileExtensions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler org.springframework.http.ResponseEntity&lt;java.lang.Object&gt; handleTypeMismatch(org.springframework.beans.TypeMismatchException, org.springframework.http.HttpHeaders, org.springframework.http.HttpStatus, org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.PathVariableMapMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.RedirectAttributesMethodArgumentResolver java.lang.Object resolveArgument(org.springframework.core.MethodParameter, org.springframework.web.method.support.ModelAndViewContainer, org.springframework.web.context.request.NativeWebRequest, org.springframework.web.bind.support.WebDataBinderFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod void invokeAndHandle(org.springframework.web.context.request.ServletWebRequest, org.springframework.web.method.support.ModelAndViewContainer, java.lang.Object...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.annotation.ModelAndViewMethodReturnValueHandler boolean supportsReturnType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,92 @@
+<root>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfView void prepareWriter(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, com.lowagie.text.pdf.PdfWriter, javax.servlet.http.HttpServletRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfStamperView com.lowagie.text.pdf.PdfReader readPdfResource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfView com.lowagie.text.Document newDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractExcelView org.apache.poi.hssf.usermodel.HSSFWorkbook getTemplateSource(java.lang.String, javax.servlet.http.HttpServletRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractExcelView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractExcelView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractExcelView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractExcelView void setText(org.apache.poi.hssf.usermodel.HSSFCell, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfStamperView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractExcelView org.apache.poi.hssf.usermodel.HSSFWorkbook getTemplateSource(java.lang.String, javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractJExcelView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractJExcelView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractExcelView org.apache.poi.hssf.usermodel.HSSFCell getCell(org.apache.poi.hssf.usermodel.HSSFSheet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractJExcelView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfStamperView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractJExcelView jxl.Workbook getTemplateSource(java.lang.String, javax.servlet.http.HttpServletRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.document.AbstractPdfStamperView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

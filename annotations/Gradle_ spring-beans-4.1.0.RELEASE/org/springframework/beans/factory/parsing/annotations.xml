@@ -1,0 +1,56 @@
+<root>
+    <item name='org.springframework.beans.factory.parsing.ParseState org.springframework.beans.factory.parsing.ParseState snapshot()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.BeanComponentDefinition org.springframework.beans.factory.config.BeanDefinition[] getBeanDefinitions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.FailFastProblemReporter void warning(org.springframework.beans.factory.parsing.Problem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.ProblemReporter void warning(org.springframework.beans.factory.parsing.Problem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.BeanComponentDefinition BeanComponentDefinition(org.springframework.beans.factory.config.BeanDefinition, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.AbstractComponentDefinition org.springframework.beans.factory.config.BeanDefinition[] getInnerBeanDefinitions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.ComponentDefinition org.springframework.beans.factory.config.BeanDefinition[] getBeanDefinitions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.BeanDefinitionParsingException BeanDefinitionParsingException(org.springframework.beans.factory.parsing.Problem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.ComponentDefinition org.springframework.beans.factory.config.BeanReference[] getBeanReferences()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.BeanComponentDefinition BeanComponentDefinition(org.springframework.beans.factory.config.BeanDefinitionHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.ComponentDefinition org.springframework.beans.factory.config.BeanDefinition[] getInnerBeanDefinitions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.AbstractComponentDefinition org.springframework.beans.factory.config.BeanReference[] getBeanReferences()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.BeanComponentDefinition BeanComponentDefinition(org.springframework.beans.factory.config.BeanDefinition, java.lang.String, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.parsing.AbstractComponentDefinition org.springframework.beans.factory.config.BeanDefinition[] getBeanDefinitions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

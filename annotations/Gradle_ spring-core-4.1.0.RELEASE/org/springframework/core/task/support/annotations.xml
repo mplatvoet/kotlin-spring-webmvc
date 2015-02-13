@@ -1,0 +1,29 @@
+<root>
+    <item name='org.springframework.core.task.support.TaskExecutorAdapter TaskExecutorAdapter(java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.task.support.TaskExecutorAdapter org.springframework.util.concurrent.ListenableFuture&lt;T&gt; submitListenable(java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.task.support.ConcurrentExecutorAdapter ConcurrentExecutorAdapter(org.springframework.core.task.TaskExecutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.task.support.TaskExecutorAdapter org.springframework.util.concurrent.ListenableFuture&lt;?&gt; submitListenable(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.task.support.TaskExecutorAdapter void execute(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.task.support.ExecutorServiceAdapter ExecutorServiceAdapter(org.springframework.core.task.TaskExecutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.task.support.TaskExecutorAdapter void execute(java.lang.Runnable, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

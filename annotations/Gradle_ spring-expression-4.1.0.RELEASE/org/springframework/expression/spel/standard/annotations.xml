@@ -1,0 +1,32 @@
+<root>
+    <item name='org.springframework.expression.spel.standard.SpelExpression void setValue(org.springframework.expression.EvaluationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelCompiler org.springframework.expression.spel.standard.SpelCompiler getCompiler(java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelCompiler org.springframework.expression.spel.CompiledExpression compile(org.springframework.expression.spel.ast.SpelNodeImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelExpression java.lang.Class&lt;?&gt; getValueType(org.springframework.expression.EvaluationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelExpression org.springframework.core.convert.TypeDescriptor getValueTypeDescriptor(org.springframework.expression.EvaluationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelExpressionParser org.springframework.expression.spel.standard.SpelExpression parseRaw(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelExpressionParser org.springframework.expression.Expression doParseExpression(java.lang.String, org.springframework.expression.ParserContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelExpressionParser org.springframework.expression.spel.standard.SpelExpression doParseExpression(java.lang.String, org.springframework.expression.ParserContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelExpression boolean isWritable(org.springframework.expression.EvaluationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.standard.SpelCompiler.ChildClassLoader java.lang.Class&lt;?&gt; defineClass(java.lang.String, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

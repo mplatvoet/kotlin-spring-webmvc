@@ -1,0 +1,128 @@
+<root>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator org.springframework.core.convert.converter.ConvertingComparator&lt;java.util.Map.Entry&lt;K,V&gt;,V&gt; mapEntryValues(java.util.Comparator&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterFactory org.springframework.core.convert.converter.Converter&lt;S,T&gt; getConverter(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator ConvertingComparator(java.util.Comparator&lt;T&gt;, org.springframework.core.convert.converter.Converter&lt;S,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator ConvertingComparator(java.util.Comparator&lt;T&gt;, org.springframework.core.convert.ConversionService, java.lang.Class&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator org.springframework.core.convert.converter.ConvertingComparator&lt;java.util.Map.Entry&lt;K,V&gt;,V&gt; mapEntryValues(java.util.Comparator&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.GenericConverter.ConvertiblePair ConvertiblePair(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterRegistry void addConverterFactory(org.springframework.core.convert.converter.ConverterFactory&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.GenericConverter.ConvertiblePair java.lang.Class&lt;?&gt; getSourceType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterRegistry void removeConvertible(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator ConvertingComparator(org.springframework.core.convert.converter.Converter&lt;S,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.GenericConverter.ConvertiblePair java.lang.Class&lt;?&gt; getTargetType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterRegistry void removeConvertible(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConditionalConverter boolean matches(org.springframework.core.convert.TypeDescriptor, org.springframework.core.convert.TypeDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterRegistry void addConverter(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, org.springframework.core.convert.converter.Converter&lt;?,?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterFactory org.springframework.core.convert.converter.Converter&lt;S,T&gt; getConverter(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterRegistry void addConverter(org.springframework.core.convert.converter.Converter&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.GenericConverter java.lang.Object convert(java.lang.Object, org.springframework.core.convert.TypeDescriptor, org.springframework.core.convert.TypeDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.Converter T convert(S) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator ConvertingComparator(java.util.Comparator&lt;T&gt;, org.springframework.core.convert.ConversionService, java.lang.Class&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator ConvertingComparator(java.util.Comparator&lt;T&gt;, org.springframework.core.convert.converter.Converter&lt;S,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator ConvertingComparator(java.util.Comparator&lt;T&gt;, org.springframework.core.convert.ConversionService, java.lang.Class&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.GenericConverter.ConvertiblePair ConvertiblePair(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator org.springframework.core.convert.converter.ConvertingComparator&lt;java.util.Map.Entry&lt;K,V&gt;,K&gt; mapEntryKeys(java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConvertingComparator org.springframework.core.convert.converter.ConvertingComparator&lt;java.util.Map.Entry&lt;K,V&gt;,K&gt; mapEntryKeys(java.util.Comparator&lt;K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterRegistry void addConverter(org.springframework.core.convert.converter.GenericConverter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConditionalConverter boolean matches(org.springframework.core.convert.TypeDescriptor, org.springframework.core.convert.TypeDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.GenericConverter java.lang.Object convert(java.lang.Object, org.springframework.core.convert.TypeDescriptor, org.springframework.core.convert.TypeDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.convert.converter.ConverterRegistry void addConverter(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, org.springframework.core.convert.converter.Converter&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,26 @@
+<root>
+    <item name='org.springframework.scheduling.support.PeriodicTrigger java.util.Date nextExecutionTime(org.springframework.scheduling.TriggerContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.support.CronTrigger java.util.Date nextExecutionTime(org.springframework.scheduling.TriggerContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.support.TaskUtils LOG_AND_SUPPRESS_ERROR_HANDLER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.support.TaskUtils org.springframework.scheduling.support.DelegatingErrorHandlingRunnable decorateTaskWithErrorHandler(java.lang.Runnable, org.springframework.util.ErrorHandler, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.support.ScheduledMethodRunnable ScheduledMethodRunnable(java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.support.PeriodicTrigger java.util.Date nextExecutionTime(org.springframework.scheduling.TriggerContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.support.TaskUtils org.springframework.util.ErrorHandler getDefaultErrorHandler(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.support.TaskUtils LOG_AND_PROPAGATE_ERROR_HANDLER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

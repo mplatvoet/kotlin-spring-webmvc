@@ -1,0 +1,68 @@
+<root>
+    <item name='org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter java.lang.Object read(java.lang.reflect.Type, java.lang.Class&lt;?&gt;, org.springframework.http.HttpInputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter java.lang.Long getContentLength(java.lang.Object, org.springframework.http.MediaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.json.GsonBuilderUtils com.google.gson.GsonBuilder gsonBuilderWithBase64EncodedByteArrays()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.json.GsonHttpMessageConverter void writeInternal(java.lang.Object, org.springframework.http.HttpOutputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.json.GsonHttpMessageConverter java.lang.Object readInternal(java.lang.Class&lt;?&gt;, org.springframework.http.HttpInputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.json.GsonHttpMessageConverter java.lang.Object read(java.lang.reflect.Type, java.lang.Class&lt;?&gt;, org.springframework.http.HttpInputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter void writeInternal(java.lang.Object, org.springframework.http.HttpOutputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter java.lang.Object read(java.lang.reflect.Type, java.lang.Class&lt;?&gt;, org.springframework.http.HttpInputMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter void writeInternal(java.lang.Object, org.springframework.http.HttpOutputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter boolean canRead(java.lang.Class&lt;?&gt;, org.springframework.http.MediaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.json.GsonHttpMessageConverter java.lang.Object read(java.lang.reflect.Type, java.lang.Class&lt;?&gt;, org.springframework.http.HttpInputMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.json.GsonHttpMessageConverter void writeInternal(java.lang.Object, org.springframework.http.HttpOutputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.json.GsonFactoryBean java.lang.Class&lt;?&gt; getObjectType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.json.GsonHttpMessageConverter boolean canRead(java.lang.Class&lt;?&gt;, org.springframework.http.MediaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter java.lang.Object readInternal(java.lang.Class&lt;?&gt;, org.springframework.http.HttpInputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

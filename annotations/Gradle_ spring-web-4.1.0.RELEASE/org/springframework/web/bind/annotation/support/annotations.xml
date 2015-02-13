@@ -1,0 +1,29 @@
+<root>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodInvoker void addReturnValueAsModelAttribute(java.lang.reflect.Method, java.lang.Class&lt;?&gt;, java.lang.Object, org.springframework.ui.ExtendedModelMap) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodResolver void init(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodInvoker java.lang.Object resolveRequestBody(org.springframework.core.MethodParameter, org.springframework.web.context.request.NativeWebRequest, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodInvoker void doBind(org.springframework.web.bind.WebDataBinder, org.springframework.web.context.request.NativeWebRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodInvoker void doBind(org.springframework.web.bind.WebDataBinder, org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodResolver java.util.Set&lt;java.lang.reflect.Method&gt; getHandlerMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodResolver java.util.Set&lt;java.lang.reflect.Method&gt; getModelAttributeMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodResolver java.util.Set&lt;java.lang.reflect.Method&gt; getInitBinderMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.bind.annotation.support.HandlerMethodInvoker org.springframework.web.bind.WebDataBinder createBinder(org.springframework.web.context.request.NativeWebRequest, java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

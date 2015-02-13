@@ -1,0 +1,62 @@
+<root>
+    <item name='org.springframework.scheduling.config.TaskManagementConfigUtils ASYNC_ANNOTATION_PROCESSOR_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ScheduledTaskRegistrar void setTriggerTasks(java.util.Map&lt;java.lang.Runnable,org.springframework.scheduling.Trigger&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.SchedulerBeanDefinitionParser java.lang.String getBeanClassName(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ScheduledTasksBeanDefinitionParser java.lang.String getBeanClassName(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.TaskManagementConfigUtils SCHEDULED_ANNOTATION_PROCESSOR_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ScheduledTaskRegistrar void setCronTasks(java.util.Map&lt;java.lang.Runnable,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.CronTask CronTask(java.lang.Runnable, org.springframework.scheduling.support.CronTrigger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.TaskManagementConfigUtils ASYNC_EXECUTION_ASPECT_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ContextLifecycleScheduledTaskRegistrar void onApplicationEvent(org.springframework.context.ApplicationEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ExecutorBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ScheduledTaskRegistrar void setFixedRateTasks(java.util.Map&lt;java.lang.Runnable,java.lang.Long&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ScheduledTaskRegistrar void setFixedDelayTasks(java.util.Map&lt;java.lang.Runnable,java.lang.Long&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.AnnotationDrivenBeanDefinitionParser org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.AnnotationDrivenBeanDefinitionParser org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ContextLifecycleScheduledTaskRegistrar void onApplicationEvent(org.springframework.context.event.ContextRefreshedEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ScheduledTasksBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.SchedulerBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.support.BeanDefinitionBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ScheduledTasksBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ExecutorBeanDefinitionParser java.lang.String getBeanClassName(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.config.ScheduledTaskRegistrar void setScheduler(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

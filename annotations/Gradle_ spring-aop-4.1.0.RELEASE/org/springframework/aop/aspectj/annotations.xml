@@ -1,0 +1,107 @@
+<root>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice org.aspectj.weaver.tools.JoinPointMatch getJoinPointMatch(org.springframework.aop.ProxyMethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJAopUtils boolean isBeforeAdvice(org.springframework.aop.Advisor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJExpressionPointcut org.springframework.aop.MethodMatcher getMethodMatcher()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.DeclareParentsAdvisor org.springframework.aop.ClassFilter getClassFilter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice void setReturningNameNoCheck(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJExpressionPointcut AspectJExpressionPointcut(java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.Class&lt;?&gt;[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJAroundAdvice java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJAdviceParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice java.lang.Object[] argBinding(org.aspectj.lang.JoinPoint, org.aspectj.weaver.tools.JoinPointMatch, java.lang.Object, java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint org.aspectj.lang.JoinPoint.StaticPart getStaticPart()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.DeclareParentsAdvisor java.lang.Class&lt;?&gt;[] getInterfaces()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice org.aspectj.lang.JoinPoint currentJoinPoint()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJExpressionPointcut boolean matches(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJAfterThrowingAdvice java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint java.lang.String getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJPointcutAdvisor org.springframework.aop.Pointcut getPointcut()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJAopUtils org.springframework.aop.aspectj.AspectJPrecedenceInformation getAspectJPrecedenceInformationFor(org.springframework.aop.Advisor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice org.springframework.core.ParameterNameDiscoverer createParameterNameDiscoverer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJExpressionPointcut AspectJExpressionPointcut(java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.Class&lt;?&gt;[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint java.lang.Object proceed(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJAroundAdvice org.aspectj.lang.ProceedingJoinPoint lazyGetProceedingJoinPoint(org.springframework.aop.ProxyMethodInvocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice void setArgumentNamesFromStringArray(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJProxyUtils boolean makeAdvisorChainAspectJCapableIfNecessary(java.util.List&lt;org.springframework.aop.Advisor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice org.springframework.aop.Pointcut buildSafePointcut()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJExpressionPointcut org.springframework.aop.ClassFilter getClassFilter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJExpressionPointcutAdvisor org.springframework.aop.Pointcut getPointcut()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice void setThrowingNameNoCheck(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJAfterAdvice java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJWeaverMessageHandler boolean handleMessage(org.aspectj.bridge.IMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJPointcutAdvisor AspectJPointcutAdvisor(org.springframework.aop.aspectj.AbstractAspectJAdvice) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJAopUtils boolean isAfterAdvice(org.springframework.aop.Advisor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.DeclareParentsAdvisor DeclareParentsAdvisor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AbstractAspectJAdvice org.aspectj.lang.JoinPoint getJoinPoint()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.aspectj.AspectJPointcutAdvisor org.aopalliance.aop.Advice getAdvice()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

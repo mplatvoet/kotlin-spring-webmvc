@@ -1,0 +1,11 @@
+<root>
+    <item name='org.springframework.ejb.interceptor.SpringBeanAutowiringInterceptor void releaseBean(javax.interceptor.InvocationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.ejb.interceptor.SpringBeanAutowiringInterceptor org.springframework.beans.factory.access.BeanFactoryLocator getBeanFactoryLocator(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.ejb.interceptor.SpringBeanAutowiringInterceptor void autowireBean(javax.interceptor.InvocationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,50 @@
+<root>
+    <item name='org.springframework.jmx.support.JmxUtils IDENTITY_OBJECT_NAME_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.JmxUtils java.lang.String[] getMethodSignature(java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.RegistrationPolicy FAIL_ON_EXISTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.JmxUtils javax.management.ObjectName appendIdentityToObjectName(javax.management.ObjectName, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.JmxUtils javax.management.MBeanServer locateMBeanServer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.MetricType GAUGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.RegistrationPolicy IGNORE_EXISTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.ConnectorServerFactoryBean void setObjectName(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.MBeanServerFactoryBean javax.management.MBeanServer locateMBeanServer(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.RegistrationPolicy REPLACE_EXISTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.JmxUtils java.lang.String[] getMethodSignature(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.MetricType COUNTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.ConnectorServerFactoryBean DEFAULT_SERVICE_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.JmxUtils java.lang.String getAttributeName(java.beans.PropertyDescriptor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.ObjectNameManager javax.management.ObjectName getInstance(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.support.JmxUtils javax.management.MBeanServer locateMBeanServer(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

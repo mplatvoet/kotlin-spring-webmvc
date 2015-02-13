@@ -1,0 +1,14 @@
+<root>
+    <item name='javax.servlet.annotation.ServletSecurity.TransportGuarantee CONFIDENTIAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.annotation.ServletSecurity.TransportGuarantee NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.annotation.ServletSecurity.EmptyRoleSemantic PERMIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.annotation.ServletSecurity.EmptyRoleSemantic DENY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

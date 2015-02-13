@@ -1,0 +1,35 @@
+<root>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter java.lang.Object readInternal(java.lang.Class, org.springframework.http.HttpInputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter org.springframework.http.MediaType getDefaultContentType(com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter X_PROTOBUF_SCHEMA_HEADER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter PROTOBUF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter void writeInternal(java.lang.Object, org.springframework.http.HttpOutputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter void writeInternal(java.lang.Object, org.springframework.http.HttpOutputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter void writeInternal(com.google.protobuf.Message, org.springframework.http.HttpOutputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter org.springframework.http.MediaType getDefaultContentType(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter com.google.protobuf.Message readInternal(java.lang.Class&lt;? extends com.google.protobuf.Message&gt;, org.springframework.http.HttpInputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.protobuf.ProtobufHttpMessageConverter X_PROTOBUF_MESSAGE_HEADER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

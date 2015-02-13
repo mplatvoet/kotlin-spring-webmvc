@@ -1,0 +1,17 @@
+<root>
+    <item name='org.springframework.web.jsf.el.SpringBeanFacesELResolver org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.el.ELContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.el.WebApplicationContextFacesELResolver java.lang.Class&lt;?&gt; getCommonPropertyType(javax.el.ELContext, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.el.WebApplicationContextFacesELResolver WEB_APPLICATION_CONTEXT_VARIABLE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.el.SpringBeanFacesELResolver org.springframework.beans.factory.BeanFactory getBeanFactory(javax.el.ELContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.el.WebApplicationContextFacesELResolver org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.el.ELContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

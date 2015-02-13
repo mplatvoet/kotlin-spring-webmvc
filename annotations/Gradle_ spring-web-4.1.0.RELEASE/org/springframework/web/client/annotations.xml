@@ -1,0 +1,863 @@
+<root>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations void put(java.lang.String, java.lang.Object, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate java.net.URI postForLocation(java.lang.String, java.lang.Object, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations void delete(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations T getForObject(java.lang.String, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate java.util.Set&lt;org.springframework.http.HttpMethod&gt; optionsForAllow(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpClientErrorException HttpClientErrorException(org.springframework.http.HttpStatus, java.lang.String, org.springframework.http.HttpHeaders, byte[], java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.net.URI)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.DefaultResponseErrorHandler boolean hasError(org.springframework.http.client.ClientHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations T postForObject(java.lang.String, java.lang.Object, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.web.client.ResponseExtractor&lt;org.springframework.http.HttpHeaders&gt; headersExtractor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.HttpServerErrorException HttpServerErrorException(org.springframework.http.HttpStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.HttpHeaders headForHeaders(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(org.springframework.http.RequestEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpClientErrorException HttpClientErrorException(org.springframework.http.HttpStatus, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.net.URI, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.ResponseErrorHandler boolean hasError(org.springframework.http.client.ClientHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.net.URI)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt; getMessageConverters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate void put(java.lang.String, java.lang.Object, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; postForEntity(java.lang.String, java.lang.Object, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.net.URI, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.net.URI, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate java.util.Set&lt;org.springframework.http.HttpMethod&gt; optionsForAllow(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;T&gt; doExecute(java.net.URI, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.net.URI, org.springframework.http.HttpEntity&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations java.util.Set&lt;org.springframework.http.HttpMethod&gt; optionsForAllow(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate T getForObject(java.lang.String, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate void put(java.lang.String, java.lang.Object, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.HttpHeaders headForHeaders(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.net.URI)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.HttpStatusCodeException HttpStatusCodeException(org.springframework.http.HttpStatus, java.lang.String, org.springframework.http.HttpHeaders, byte[], java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate void delete(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.web.client.ResponseExtractor&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; responseEntityExtractor(java.lang.reflect.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpMessageConverterExtractor boolean hasMessageBody(org.springframework.http.client.ClientHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.web.client.AsyncRequestCallback acceptHeaderRequestCallback(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpClientErrorException HttpClientErrorException(org.springframework.http.HttpStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(org.springframework.http.RequestEntity&lt;?&gt;, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; postForEntity(java.lang.String, java.lang.Object, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.UnknownHttpStatusCodeException byte[] getResponseBodyAsByteArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations java.net.URI postForLocation(java.lang.String, java.lang.Object, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate java.net.URI postForLocation(java.lang.String, java.lang.Object, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.UnknownHttpStatusCodeException java.lang.String getResponseBodyAsString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.HttpStatusCodeException java.lang.String getResponseBodyAsString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate java.util.List&lt;org.springframework.http.converter.HttpMessageConverter&lt;?&gt;&gt; getMessageConverters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.net.URI, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.web.client.RequestCallback acceptHeaderRequestCallback(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.HttpHeaders headForHeaders(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate T postForObject(java.lang.String, java.lang.Object, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.net.URI)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.web.client.ResponseExtractor&lt;org.springframework.http.HttpHeaders&gt; headersExtractor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate T execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.RequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.net.URI)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(org.springframework.http.RequestEntity&lt;?&gt;, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.net.URI, org.springframework.http.HttpEntity&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.HttpStatusCodeException HttpStatusCodeException(org.springframework.http.HttpStatus, java.lang.String, byte[], java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate T getForObject(java.lang.String, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpClientErrorException HttpClientErrorException(org.springframework.http.HttpStatus, java.lang.String, byte[], java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations T postForObject(java.lang.String, java.lang.Object, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.HttpServerErrorException HttpServerErrorException(org.springframework.http.HttpStatus, java.lang.String, org.springframework.http.HttpHeaders, byte[], java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate T execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.RequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.web.client.AsyncRequestCallback httpEntityCallback(org.springframework.http.HttpEntity&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations void put(java.lang.String, java.lang.Object, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.ResponseExtractor T extractData(org.springframework.http.client.ClientHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.HttpHeaders headForHeaders(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpServerErrorException HttpServerErrorException(org.springframework.http.HttpStatus, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations java.util.Set&lt;org.springframework.http.HttpMethod&gt; optionsForAllow(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.HttpStatusCodeException byte[] getResponseBodyAsByteArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpMessageConverterExtractor T extractData(org.springframework.http.client.ClientHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations void delete(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; postForEntity(java.lang.String, java.lang.Object, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.net.URI&gt; postForLocation(java.net.URI, org.springframework.http.HttpEntity&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations java.net.URI postForLocation(java.lang.String, java.lang.Object, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; postForEntity(java.lang.String, java.lang.Object, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.web.client.AsyncRequestCallback httpEntityCallback(org.springframework.http.HttpEntity&lt;T&gt;, java.lang.reflect.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations T execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.RequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations T execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.RequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.net.URI, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate void delete(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.web.client.RequestCallback httpEntityCallback(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.DefaultResponseErrorHandler boolean hasError(org.springframework.http.HttpStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations T getForObject(java.lang.String, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.net.URI, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; postForEntity(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpStatusCodeException HttpStatusCodeException(org.springframework.http.HttpStatus, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;java.util.Set&lt;org.springframework.http.HttpMethod&gt;&gt; optionsForAllow(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.lang.String, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate T postForObject(java.lang.String, java.lang.Object, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.HttpHeaders&gt; headForHeaders(java.net.URI)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.HttpServerErrorException HttpServerErrorException(org.springframework.http.HttpStatus, java.lang.String, byte[], java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(org.springframework.http.RequestEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;T&gt; execute(java.lang.String, org.springframework.http.HttpMethod, org.springframework.web.client.AsyncRequestCallback, org.springframework.web.client.ResponseExtractor&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; getForEntity(java.lang.String, java.lang.Class&lt;T&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.HttpStatusCodeException HttpStatusCodeException(org.springframework.http.HttpStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.net.URI, org.springframework.http.HttpEntity&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.util.concurrent.ListenableFuture&lt;?&gt; delete(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.HttpStatusCodeException org.springframework.http.HttpStatus getStatusCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;?&gt; put(java.lang.String, org.springframework.http.HttpEntity&lt;?&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.http.ResponseEntity&lt;T&gt; exchange(org.springframework.http.RequestEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestTemplate org.springframework.web.client.ResponseExtractor&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; responseEntityExtractor(java.lang.reflect.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestTemplate org.springframework.web.client.RequestCallback httpEntityCallback(java.lang.Object, java.lang.reflect.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.client.RestOperations org.springframework.http.ResponseEntity&lt;T&gt; exchange(org.springframework.http.RequestEntity&lt;?&gt;, org.springframework.core.ParameterizedTypeReference&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.client.AsyncRestOperations org.springframework.util.concurrent.ListenableFuture&lt;org.springframework.http.ResponseEntity&lt;T&gt;&gt; exchange(java.lang.String, org.springframework.http.HttpMethod, org.springframework.http.HttpEntity&lt;?&gt;, java.lang.Class&lt;T&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

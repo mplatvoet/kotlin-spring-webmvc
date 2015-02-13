@@ -1,0 +1,149 @@
+<root>
+    <item name='org.springframework.validation.BindingErrorProcessor void processMissingFieldError(java.lang.String, org.springframework.validation.BindingResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.validation.AbstractBindingResult void addAllErrors(org.springframework.validation.Errors) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultMessageCodesResolver.Format PREFIX_ERROR_CODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DataBinder void addValidators(org.springframework.validation.Validator...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultBindingErrorProcessor void processPropertyAccessException(org.springframework.beans.PropertyAccessException, org.springframework.validation.BindingResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.MessageCodesResolver java.lang.String[] resolveMessageCodes(java.lang.String, java.lang.String, java.lang.String, java.lang.Class&lt;?&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.validation.DefaultMessageCodesResolver java.lang.String[] resolveMessageCodes(java.lang.String, java.lang.String, java.lang.String, java.lang.Class&lt;?&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.BindingErrorProcessor void processPropertyAccessException(org.springframework.beans.PropertyAccessException, org.springframework.validation.BindingResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void rejectIfEmptyOrWhitespace(org.springframework.validation.Errors, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultMessageCodesResolver void buildFieldList(java.lang.String, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void rejectIfEmpty(org.springframework.validation.Errors, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DataBinder void doBind(org.springframework.beans.MutablePropertyValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void rejectIfEmpty(org.springframework.validation.Errors, java.lang.String, java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.AbstractErrors boolean isMatchingFieldError(java.lang.String, org.springframework.validation.FieldError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultBindingErrorProcessor MISSING_FIELD_ERROR_CODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void invokeValidator(org.springframework.validation.Validator, java.lang.Object, org.springframework.validation.Errors, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.BindingResultUtils org.springframework.validation.BindingResult getRequiredBindingResult(java.util.Map&lt;?,?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.BindingResultUtils org.springframework.validation.BindingResult getBindingResult(java.util.Map&lt;?,?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.BindingResult java.util.Map&lt;java.lang.String,java.lang.Object&gt; getModel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.validation.BindingErrorProcessor void processPropertyAccessException(org.springframework.beans.PropertyAccessException, org.springframework.validation.BindingResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.validation.AbstractBindingResult java.util.Map&lt;java.lang.String,java.lang.Object&gt; getModel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultMessageCodesResolver CODE_SEPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultBindingErrorProcessor java.lang.Object[] getArgumentsForBindError(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void rejectIfEmptyOrWhitespace(org.springframework.validation.Errors, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultBindingErrorProcessor void processPropertyAccessException(org.springframework.beans.PropertyAccessException, org.springframework.validation.BindingResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void rejectIfEmptyOrWhitespace(org.springframework.validation.Errors, java.lang.String, java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void rejectIfEmpty(org.springframework.validation.Errors, java.lang.String, java.lang.String, java.lang.Object[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.BindingResultUtils org.springframework.validation.BindingResult getRequiredBindingResult(java.util.Map&lt;?,?&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultMessageCodesResolver.Format POSTFIX_ERROR_CODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.Errors NESTED_PATH_SEPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.BindException void addAllErrors(org.springframework.validation.Errors) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.validation.DataBinder void checkAllowedFields(org.springframework.beans.MutablePropertyValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void invokeValidator(org.springframework.validation.Validator, java.lang.Object, org.springframework.validation.Errors) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultMessageCodesResolver.Format java.lang.String toDelimitedString(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DataBinder void replaceValidators(org.springframework.validation.Validator...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.Errors void addAllErrors(org.springframework.validation.Errors) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void rejectIfEmptyOrWhitespace(org.springframework.validation.Errors, java.lang.String, java.lang.String, java.lang.Object[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.AbstractErrors boolean isMatchingFieldError(java.lang.String, org.springframework.validation.FieldError) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultBindingErrorProcessor void processMissingFieldError(java.lang.String, org.springframework.validation.BindingResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DefaultMessageCodesResolver void buildFieldList(java.lang.String, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.DataBinder DEFAULT_OBJECT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.ValidationUtils void rejectIfEmpty(org.springframework.validation.Errors, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

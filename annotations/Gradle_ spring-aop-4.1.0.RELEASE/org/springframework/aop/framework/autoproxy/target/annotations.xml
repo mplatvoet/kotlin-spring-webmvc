@@ -1,0 +1,35 @@
+<root>
+    <item name='org.springframework.aop.framework.autoproxy.target.LazyInitTargetSourceCreator org.springframework.aop.target.AbstractBeanFactoryBasedTargetSource createBeanFactoryBasedTargetSource(java.lang.Class&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.framework.autoproxy.target.QuickTargetSourceCreator org.springframework.aop.target.AbstractBeanFactoryBasedTargetSource createBeanFactoryBasedTargetSource(java.lang.Class&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.framework.autoproxy.target.AbstractBeanFactoryBasedTargetSourceCreator org.springframework.beans.factory.support.DefaultListableBeanFactory buildInternalBeanFactory(org.springframework.beans.factory.config.ConfigurableBeanFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.framework.autoproxy.target.QuickTargetSourceCreator PREFIX_PROTOTYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.framework.autoproxy.target.AbstractBeanFactoryBasedTargetSourceCreator org.springframework.beans.factory.support.DefaultListableBeanFactory getInternalBeanFactoryForBean(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.framework.autoproxy.target.AbstractBeanFactoryBasedTargetSourceCreator void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.framework.autoproxy.target.QuickTargetSourceCreator PREFIX_COMMONS_POOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.framework.autoproxy.target.QuickTargetSourceCreator PREFIX_THREAD_LOCAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.framework.autoproxy.target.AbstractBeanFactoryBasedTargetSourceCreator org.springframework.aop.target.AbstractBeanFactoryBasedTargetSource createBeanFactoryBasedTargetSource(java.lang.Class&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

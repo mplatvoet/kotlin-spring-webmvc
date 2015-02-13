@@ -1,0 +1,26 @@
+<root>
+    <item name='org.springframework.beans.support.PagedListHolder org.springframework.beans.support.SortDefinition copySortDefinition(org.springframework.beans.support.SortDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.support.MutableSortDefinition MutableSortDefinition(org.springframework.beans.support.SortDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.support.PropertyComparator void sort(java.lang.Object[], org.springframework.beans.support.SortDefinition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.support.PagedListHolder void doSort(java.util.List&lt;E&gt;, org.springframework.beans.support.SortDefinition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.support.ResourceEditorRegistrar void registerCustomEditors(org.springframework.beans.PropertyEditorRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.support.ArgumentConvertingMethodInvoker org.springframework.beans.TypeConverter getDefaultTypeConverter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.support.PropertyComparator void sort(java.util.List&lt;?&gt;, org.springframework.beans.support.SortDefinition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.support.PagedListHolder org.springframework.beans.support.SortDefinition copySortDefinition(org.springframework.beans.support.SortDefinition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,29 @@
+<root>
+    <item name='org.springframework.jndi.JndiLocatorDelegate org.springframework.jndi.JndiLocatorDelegate createDefaultResourceRefLocator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jndi.JndiTemplate javax.naming.Context getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jndi.JndiTemplateEditor void setAsText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jndi.JndiTemplate javax.naming.Context createInitialContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jndi.JndiTemplate T execute(org.springframework.jndi.JndiCallback&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jndi.JndiCallback T doInContext(javax.naming.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jndi.JndiLocatorSupport CONTAINER_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jndi.TypeMismatchNamingException TypeMismatchNamingException(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

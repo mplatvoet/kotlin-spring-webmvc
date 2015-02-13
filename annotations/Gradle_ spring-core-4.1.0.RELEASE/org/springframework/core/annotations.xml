@@ -1,0 +1,479 @@
+<root>
+    <item name='org.springframework.core.ExceptionDepthComparator int compare(java.lang.Class&lt;? extends java.lang.Throwable&gt;, java.lang.Class&lt;? extends java.lang.Throwable&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AliasRegistry void registerAlias(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt; resolveReturnType(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessor void setAttribute(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forField(java.lang.reflect.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessor java.lang.Object getAttribute(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.ResolvableType boolean isAssignableFrom(org.springframework.core.ResolvableType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.DecoratingClassLoader void excludeClass(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClassWithGenerics(java.lang.Class&lt;?&gt;, org.springframework.core.ResolvableType...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapKeyFieldType(java.lang.reflect.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ControlFlow boolean under(java.lang.Class&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forMethodParameter(org.springframework.core.MethodParameter, org.springframework.core.ResolvableType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.reflect.Type getTargetType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType java.lang.Class&lt;?&gt;[] resolveGenerics(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt; resolveReturnTypeForGenericMethod(java.lang.reflect.Method, java.lang.Object[], java.lang.ClassLoader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Set&lt;java.lang.String&gt; getNamesForSuffix(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt; resolveTypeArgument(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.MethodParameter org.springframework.core.MethodParameter forMethodOrConstructor(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.OrderComparator void sort(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ExceptionDepthComparator int compare(java.lang.Class&lt;? extends java.lang.Throwable&gt;, java.lang.Class&lt;? extends java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getCollectionReturnType(java.lang.reflect.Method, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.DecoratingClassLoader void excludePackage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClass(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forMethodParameter(java.lang.reflect.Method, int, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClassWithGenerics(java.lang.Class&lt;?&gt;, org.springframework.core.ResolvableType...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forMethodParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forField(java.lang.reflect.Field, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapKeyReturnType(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapKeyParameterType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapValueFieldType(java.lang.reflect.Field, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ControlFlow boolean under(java.lang.Class&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Set&lt;java.lang.Object&gt; getValuesForProperty(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.MethodParameter MethodParameter(java.lang.reflect.Method, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String getVariableNameForParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Constructor&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forField(java.lang.reflect.Field, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String getVariableNameForReturnType(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forField(java.lang.reflect.Field, org.springframework.core.ResolvableType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.StandardReflectionParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forMethodParameter(java.lang.reflect.Method, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.OverridingClassLoader byte[] loadBytesForClass(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ExceptionDepthComparator ExceptionDepthComparator(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapKeyType(java.lang.Class&lt;? extends java.util.Map&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forField(java.lang.reflect.Field, org.springframework.core.ResolvableType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.SimpleAliasRegistry void resolveAliases(org.springframework.util.StringValueResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forField(java.lang.reflect.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.MethodParameter MethodParameter(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.MethodParameter MethodParameter(java.lang.reflect.Constructor&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String getVariableNameForReturnType(java.lang.reflect.Method, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessorSupport void copyAttributesFrom(org.springframework.core.AttributeAccessor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessor boolean hasAttribute(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.util.Map&lt;java.lang.reflect.TypeVariable,java.lang.reflect.Type&gt; getTypeVariableMap(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.MethodParameter MethodParameter(java.lang.reflect.Constructor&lt;?&gt;, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.StandardReflectionParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Constructor&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt; resolveReturnType(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forField(java.lang.reflect.Field, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Set&lt;java.lang.String&gt; getNamesForProperty(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.OverridingClassLoader DEFAULT_EXCLUDED_PACKAGES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.PrioritizedParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String attributeNameToPropertyName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.CollectionFactory java.util.Collection&lt;E&gt; createApproximateCollection(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Map&lt;java.lang.String,java.lang.Object&gt; getFieldCache()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapValueFieldType(java.lang.reflect.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ExceptionDepthComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ControlFlowFactory org.springframework.core.ControlFlow createControlFlow()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forType(java.lang.reflect.Type, org.springframework.core.ResolvableType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.SimpleAliasRegistry void checkForAliasCircle(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapValueParameterType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt; resolveReturnTypeForGenericMethod(java.lang.reflect.Method, java.lang.Object[], java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClassWithGenerics(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.PrioritizedParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Constructor&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forField(java.lang.reflect.Field, int, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ExceptionDepthComparator java.lang.Class&lt;? extends java.lang.Throwable&gt; findClosestMatch(java.util.Collection&lt;java.lang.Class&lt;? extends java.lang.Throwable&gt;&gt;, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String getVariableName(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getCollectionFieldType(java.lang.reflect.Field, int, java.util.Map&lt;java.lang.Integer,java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Set&lt;java.lang.String&gt; getNamesForProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getCollectionFieldType(java.lang.reflect.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt;[] resolveTypeArguments(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.lang.Object asObject(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessorSupport java.lang.Object getAttribute(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.SimpleAliasRegistry void registerAlias(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forArrayComponent(org.springframework.core.ResolvableType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.MethodParameter org.springframework.core.MethodParameter forMethodOrConstructor(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.OrderComparator java.util.Comparator&lt;java.lang.Object&gt; withSourceProvider(org.springframework.core.OrderComparator.OrderSourceProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Set&lt;java.lang.String&gt; getNames(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ControlFlow boolean under(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String getQualifiedAttributeName(java.lang.Class&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Set&lt;java.lang.Object&gt; getValuesForProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.lang.Number asNumber(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.lang.Object asObject(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ExceptionDepthComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.CollectionFactory java.util.Map&lt;K,V&gt; createApproximateMap(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.lang.String asString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.NestedCheckedException java.lang.Throwable getMostSpecificCause()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forConstructorParameter(java.lang.reflect.Constructor&lt;?&gt;, int, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.OrderComparator INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String attributeNameToPropertyName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Set&lt;java.lang.Object&gt; getValuesForSuffix(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getCollectionParameterType(org.springframework.core.MethodParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapValueFieldType(java.lang.reflect.Field, int, java.util.Map&lt;java.lang.Integer,java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapValueReturnType(java.lang.reflect.Method, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forArrayComponent(org.springframework.core.ResolvableType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapKeyFieldType(java.lang.reflect.Field, int, java.util.Map&lt;java.lang.Integer,java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String getQualifiedAttributeName(java.lang.Class&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessorSupport java.lang.Object removeAttribute(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapValueReturnType(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.OrderComparator void sort(java.util.List&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.lang.String propertyToConstantNamePrefix(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forMethodReturnType(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.util.Set&lt;java.lang.Object&gt; getValues(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getCollectionFieldType(java.lang.reflect.Field, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClassWithGenerics(java.lang.Class&lt;?&gt;, org.springframework.core.ResolvableType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapKeyFieldType(java.lang.reflect.Field, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getCollectionType(java.lang.Class&lt;? extends java.util.Collection&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClass(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessor java.lang.Object removeAttribute(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.ResolvableType java.lang.Class&lt;?&gt;[] resolveGenerics()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt; resolveParameterType(org.springframework.core.MethodParameter, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClassWithGenerics(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.LocalVariableTableParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Constructor&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forMethodParameter(org.springframework.core.MethodParameter, java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.lang.Number asNumber(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapKeyReturnType(java.lang.reflect.Method, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants Constants(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Constants java.lang.String toCodeForProperty(java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getCollectionReturnType(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.CollectionFactory java.util.Collection&lt;E&gt; createCollection(java.lang.Class&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ExceptionDepthComparator ExceptionDepthComparator(java.lang.Class&lt;? extends java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt; resolveReturnTypeArgument(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.CollectionFactory java.util.Map&lt;K,V&gt; createMap(java.lang.Class&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessorSupport boolean hasAttribute(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.NestedRuntimeException java.lang.Throwable getMostSpecificCause()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.Conventions java.lang.String getVariableNameForReturnType(java.lang.reflect.Method, java.lang.Class&lt;?&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.AttributeAccessorSupport void setAttribute(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forConstructorParameter(java.lang.reflect.Constructor&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.OverridingClassLoader java.io.InputStream openStreamForClass(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.LocalVariableTableParameterNameDiscoverer java.lang.String[] getParameterNames(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forMethodReturnType(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.MethodParameter MethodParameter(java.lang.reflect.Method, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forClassWithGenerics(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericCollectionTypeResolver java.lang.Class&lt;?&gt; getMapValueType(java.lang.Class&lt;? extends java.util.Map&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.GenericTypeResolver java.lang.Class&lt;?&gt; resolveParameterType(org.springframework.core.MethodParameter, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.ResolvableType org.springframework.core.ResolvableType forType(java.lang.reflect.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

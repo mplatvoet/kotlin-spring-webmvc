@@ -1,0 +1,89 @@
+<root>
+    <item name='org.springframework.remoting.rmi.RemoteInvocationSerializingExporter java.io.ObjectOutputStream createObjectOutputStream(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptorUtils java.lang.Exception convertRmiAccessException(java.lang.reflect.Method, java.rmi.RemoteException, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RemoteInvocationSerializingExporter org.springframework.remoting.support.RemoteInvocation doReadRemoteInvocation(java.io.ObjectInputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptorUtils java.lang.Object invokeRemoteMethod(org.aopalliance.intercept.MethodInvocation, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiBasedExporter java.lang.Object invoke(org.springframework.remoting.support.RemoteInvocation, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.rmi.JndiRmiClientInterceptor boolean isConnectFailure(java.rmi.RemoteException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RemoteInvocationSerializingExporter org.springframework.remoting.support.RemoteInvocation doReadRemoteInvocation(java.io.ObjectInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptorUtils java.lang.Exception convertRmiAccessException(java.lang.reflect.Method, java.rmi.RemoteException, boolean, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RemoteInvocationSerializingExporter CONTENT_TYPE_SERIALIZED_OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiRegistryFactoryBean void testRegistry(java.rmi.registry.Registry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RemoteInvocationSerializingExporter void doWriteRemoteInvocationResult(org.springframework.remoting.support.RemoteInvocationResult, java.io.ObjectOutputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.JndiRmiClientInterceptor java.lang.Object refreshAndRetry(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RemoteInvocationSerializingExporter java.io.ObjectInputStream createObjectInputStream(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.JndiRmiClientInterceptor java.lang.Object doInvoke(org.aopalliance.intercept.MethodInvocation, org.springframework.remoting.rmi.RmiInvocationHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptor java.lang.Object doInvoke(org.aopalliance.intercept.MethodInvocation, org.springframework.remoting.rmi.RmiInvocationHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiServiceExporter void testRegistry(java.rmi.registry.Registry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.JndiRmiClientInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.JndiRmiClientInterceptor java.lang.Object doInvoke(org.aopalliance.intercept.MethodInvocation, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptorUtils java.lang.Exception convertRmiAccessException(java.lang.reflect.Method, java.rmi.RemoteException, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptorUtils boolean isConnectFailure(java.rmi.RemoteException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptorUtils java.lang.Exception convertRmiAccessException(java.lang.reflect.Method, java.lang.Throwable, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiBasedExporter java.lang.Object invoke(org.springframework.remoting.support.RemoteInvocation, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptor java.lang.Object doInvoke(org.aopalliance.intercept.MethodInvocation, java.rmi.Remote) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptorUtils java.lang.Exception convertRmiAccessException(java.lang.reflect.Method, java.rmi.RemoteException, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptor java.lang.Object refreshAndRetry(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.rmi.RmiClientInterceptor boolean isConnectFailure(java.rmi.RemoteException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

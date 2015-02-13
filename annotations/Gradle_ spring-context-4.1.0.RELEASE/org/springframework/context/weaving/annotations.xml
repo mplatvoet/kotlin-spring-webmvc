@@ -1,0 +1,20 @@
+<root>
+    <item name='org.springframework.context.weaving.DefaultContextLoadTimeWeaver DefaultContextLoadTimeWeaver(java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.weaving.AspectJWeavingEnabler ASPECTJ_AOP_XML_RESOURCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.weaving.DefaultContextLoadTimeWeaver void addTransformer(java.lang.instrument.ClassFileTransformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.context.weaving.DefaultContextLoadTimeWeaver org.springframework.instrument.classloading.LoadTimeWeaver createServerSpecificLoadTimeWeaver(java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.context.weaving.DefaultContextLoadTimeWeaver void setBeanClassLoader(java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

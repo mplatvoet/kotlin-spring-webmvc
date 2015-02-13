@@ -1,0 +1,191 @@
+<root>
+    <item name='org.junit.runner.Description org.junit.runner.Description createTestDescription(java.lang.String, java.lang.String, java.io.Serializable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request runner(org.junit.runner.Runner)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore java.lang.String getVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result runClasses(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request classes(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(org.junit.runner.Runner)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createSuiteDescription(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request classes(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request errorReport(java.lang.Class&lt;?&gt;, java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description java.util.ArrayList&lt;org.junit.runner.Description&gt; getChildren()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createSuiteDescription(java.lang.String, java.lang.annotation.Annotation...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description TEST_MECHANISM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request sortWith(java.util.Comparator&lt;org.junit.runner.Description&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request filterWith(org.junit.runner.Description)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Describable org.junit.runner.Description getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createSuiteDescription(java.lang.String, java.io.Serializable, java.lang.annotation.Annotation...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Result org.junit.runner.notification.RunListener createListener()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(org.junit.runner.Request) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result runClasses(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createSuiteDescription(java.lang.String, java.lang.annotation.Annotation...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createSuiteDescription(java.lang.String, java.io.Serializable, java.lang.annotation.Annotation...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request method(java.lang.Class&lt;?&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createTestDescription(java.lang.Class&lt;?&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request classes(java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result runClasses(java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Runner void run(org.junit.runner.notification.RunNotifier) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.junit.runner.Computer org.junit.runner.Computer serial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createSuiteDescription(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request aClass(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createSuiteDescription(java.lang.String, java.io.Serializable, java.lang.annotation.Annotation...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Runner getRunner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request method(java.lang.Class&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(junit.framework.Test)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description java.lang.String getDisplayName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Computer org.junit.runner.Runner getRunner(org.junit.runners.model.RunnerBuilder, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Runner org.junit.runner.Description getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createTestDescription(java.lang.Class&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(org.junit.runner.Request)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request classWithoutSuiteMethod(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request classes(java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createTestDescription(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.annotation.Annotation...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createTestDescription(java.lang.String, java.lang.String, java.io.Serializable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request classes(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(org.junit.runner.Runner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createTestDescription(java.lang.String, java.lang.String, java.lang.annotation.Annotation...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description createTestDescription(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.annotation.Annotation...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result runClasses(java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Request org.junit.runner.Request filterWith(org.junit.runner.manipulation.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Computer org.junit.runner.Runner getSuite(org.junit.runners.model.RunnerBuilder, java.lang.Class&lt;?&gt;[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore void main(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result run(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.JUnitCore org.junit.runner.Result runClasses(org.junit.runner.Computer, java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runner.Description org.junit.runner.Description childlessCopy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,23 @@
+<root>
+    <item name='org.hamcrest.internal.SelfDescribingValue void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.internal.SelfDescribingValueIterator java.lang.Object next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.internal.ReflectiveTypeFinder java.lang.Class&lt;?&gt; expectedTypeFrom(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.internal.ArrayIterator ArrayIterator(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.internal.SelfDescribingValueIterator org.hamcrest.SelfDescribing next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.internal.ReflectiveTypeFinder java.lang.Class&lt;?&gt; findExpectedType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.internal.ReflectiveTypeFinder boolean canObtainExpectedTypeFrom(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

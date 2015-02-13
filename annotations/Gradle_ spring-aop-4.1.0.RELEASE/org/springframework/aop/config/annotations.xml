@@ -1,0 +1,71 @@
+<root>
+    <item name='org.springframework.aop.config.AopNamespaceUtils PROXY_TARGET_CLASS_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopNamespaceUtils void registerAspectJAnnotationAutoProxyCreatorIfNecessary(org.springframework.beans.factory.xml.ParserContext, org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopNamespaceUtils void registerAutoProxyCreatorIfNecessary(org.springframework.beans.factory.xml.ParserContext, org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AbstractInterceptorDrivenBeanDefinitionDecorator org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopConfigUtils org.springframework.beans.factory.config.BeanDefinition registerAutoProxyCreatorIfNecessary(org.springframework.beans.factory.support.BeanDefinitionRegistry, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AspectComponentDefinition org.springframework.beans.factory.config.BeanDefinition[] getBeanDefinitions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopConfigUtils org.springframework.beans.factory.config.BeanDefinition registerAutoProxyCreatorIfNecessary(org.springframework.beans.factory.support.BeanDefinitionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AbstractInterceptorDrivenBeanDefinitionDecorator java.lang.String getInterceptorNameSuffix(org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopConfigUtils AUTO_PROXY_CREATOR_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopConfigUtils org.springframework.beans.factory.config.BeanDefinition registerAspectJAutoProxyCreatorIfNecessary(org.springframework.beans.factory.support.BeanDefinitionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopConfigUtils org.springframework.beans.factory.config.BeanDefinition registerAspectJAnnotationAutoProxyCreatorIfNecessary(org.springframework.beans.factory.support.BeanDefinitionRegistry, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.MethodLocatingFactoryBean java.lang.Class&lt;java.lang.reflect.Method&gt; getObjectType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AdvisorComponentDefinition AdvisorComponentDefinition(java.lang.String, org.springframework.beans.factory.config.BeanDefinition, org.springframework.beans.factory.config.BeanDefinition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopConfigUtils org.springframework.beans.factory.config.BeanDefinition registerAspectJAnnotationAutoProxyCreatorIfNecessary(org.springframework.beans.factory.support.BeanDefinitionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopConfigUtils org.springframework.beans.factory.config.BeanDefinition registerAspectJAutoProxyCreatorIfNecessary(org.springframework.beans.factory.support.BeanDefinitionRegistry, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopNamespaceUtils void registerAspectJAutoProxyCreatorIfNecessary(org.springframework.beans.factory.xml.ParserContext, org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AdvisorComponentDefinition AdvisorComponentDefinition(java.lang.String, org.springframework.beans.factory.config.BeanDefinition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AopConfigUtils void forceAutoProxyCreatorToUseClassProxying(org.springframework.beans.factory.support.BeanDefinitionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AbstractInterceptorDrivenBeanDefinitionDecorator org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.MethodLocatingFactoryBean void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AbstractInterceptorDrivenBeanDefinitionDecorator org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.AspectComponentDefinition org.springframework.beans.factory.config.BeanReference[] getBeanReferences()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.config.PointcutComponentDefinition org.springframework.beans.factory.config.BeanDefinition[] getBeanDefinitions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

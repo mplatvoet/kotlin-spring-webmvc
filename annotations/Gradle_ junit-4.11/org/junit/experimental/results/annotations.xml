@@ -1,0 +1,23 @@
+<root>
+    <item name='org.junit.experimental.results.ResultMatchers org.hamcrest.Matcher&lt;org.junit.experimental.results.PrintableResult&gt; hasFailureContaining(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.results.PrintableResult org.junit.experimental.results.PrintableResult testResult(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.results.ResultMatchers org.hamcrest.Matcher&lt;java.lang.Object&gt; hasSingleFailureContaining(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.results.PrintableResult org.junit.experimental.results.PrintableResult testResult(org.junit.runner.Request) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.results.PrintableResult org.junit.experimental.results.PrintableResult testResult(org.junit.runner.Request)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.results.ResultMatchers org.hamcrest.Matcher&lt;org.junit.experimental.results.PrintableResult&gt; failureCountIs(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.results.ResultMatchers org.hamcrest.Matcher&lt;org.junit.experimental.results.PrintableResult&gt; isSuccessful()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

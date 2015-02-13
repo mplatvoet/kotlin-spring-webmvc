@@ -1,0 +1,20 @@
+<root>
+    <item name='org.springframework.web.servlet.view.groovy.GroovyMarkupViewResolver java.lang.Class&lt;?&gt; requiredViewClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.groovy.GroovyMarkupConfigurer java.net.URL resolveTemplate(java.lang.ClassLoader, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.groovy.GroovyMarkupConfigurer java.net.URL resolveTemplate(java.lang.ClassLoader, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.groovy.GroovyMarkupView void renderMergedTemplateModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.groovy.GroovyMarkupView void renderMergedTemplateModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

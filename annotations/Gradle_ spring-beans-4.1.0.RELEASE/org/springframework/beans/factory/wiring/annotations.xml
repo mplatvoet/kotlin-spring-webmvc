@@ -1,0 +1,23 @@
+<root>
+    <item name='org.springframework.beans.factory.wiring.ClassNameBeanWiringInfoResolver org.springframework.beans.factory.wiring.BeanWiringInfo resolveWiringInfo(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.wiring.BeanConfigurerSupport org.springframework.beans.factory.wiring.BeanWiringInfoResolver createDefaultBeanWiringInfoResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.wiring.BeanConfigurerSupport void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.wiring.ClassNameBeanWiringInfoResolver org.springframework.beans.factory.wiring.BeanWiringInfo resolveWiringInfo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.wiring.BeanWiringInfoResolver org.springframework.beans.factory.wiring.BeanWiringInfo resolveWiringInfo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

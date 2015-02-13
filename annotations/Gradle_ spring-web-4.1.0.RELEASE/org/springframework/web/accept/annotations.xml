@@ -1,0 +1,71 @@
+<root>
+    <item name='org.springframework.web.accept.MappingMediaTypeFileExtensionResolver java.util.List&lt;org.springframework.http.MediaType&gt; getAllMediaTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.accept.MediaTypeFileExtensionResolver java.util.List&lt;java.lang.String&gt; getAllFileExtensions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.accept.AbstractMappingContentNegotiationStrategy java.util.List&lt;org.springframework.http.MediaType&gt; resolveMediaTypes(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.accept.ContentNegotiationManager java.util.List&lt;org.springframework.http.MediaType&gt; resolveMediaTypes(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.accept.PathExtensionContentNegotiationStrategy java.lang.String getMediaTypeKey(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.accept.ContentNegotiationManager java.util.List&lt;java.lang.String&gt; getAllFileExtensions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.accept.ContentNegotiationManagerFactoryBean void setServletContext(javax.servlet.ServletContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.accept.ParameterContentNegotiationStrategy java.lang.String getMediaTypeKey(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.accept.HeaderContentNegotiationStrategy java.util.List&lt;org.springframework.http.MediaType&gt; resolveMediaTypes(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.accept.AbstractMappingContentNegotiationStrategy java.lang.String getMediaTypeKey(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.accept.MediaTypeFileExtensionResolver java.util.List&lt;java.lang.String&gt; resolveFileExtensions(org.springframework.http.MediaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.accept.ContentNegotiationManager java.util.List&lt;java.lang.String&gt; resolveFileExtensions(org.springframework.http.MediaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.accept.ContentNegotiationStrategy java.util.List&lt;org.springframework.http.MediaType&gt; resolveMediaTypes(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.accept.ContentNegotiationManagerFactoryBean java.lang.Class&lt;?&gt; getObjectType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.accept.FixedContentNegotiationStrategy java.util.List&lt;org.springframework.http.MediaType&gt; resolveMediaTypes(org.springframework.web.context.request.NativeWebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

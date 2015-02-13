@@ -1,0 +1,134 @@
+<root>
+    <item name='org.springframework.cache.interceptor.SimpleCacheResolver java.util.Collection&lt;java.lang.String&gt; getCacheNames(org.springframework.cache.interceptor.CacheOperationInvocationContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport.CacheOperationContext CacheOperationContext(org.springframework.cache.interceptor.CacheAspectSupport, org.springframework.cache.interceptor.CacheAspectSupport.CacheOperationMetadata, java.lang.Object[], java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CompositeCacheOperationSource java.util.Collection&lt;org.springframework.cache.interceptor.CacheOperation&gt; getCacheOperations(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cache.interceptor.SimpleKey EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.DefaultKeyGenerator java.lang.Object generate(java.lang.Object, java.lang.reflect.Method, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.AbstractFallbackCacheOperationSource java.lang.Object getCacheKey(java.lang.reflect.Method, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.SimpleKey SimpleKey(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CachePutOperation java.lang.StringBuilder getOperationDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport java.lang.Object invokeOperation(org.springframework.cache.interceptor.CacheOperationInvoker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheOperationInvoker.ThrowableWrapper ThrowableWrapper(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.SimpleKeyGenerator java.lang.Object generateKey(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheOperationSource java.util.Collection&lt;org.springframework.cache.interceptor.CacheOperation&gt; getCacheOperations(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport org.springframework.cache.interceptor.CacheAspectSupport.CacheOperationMetadata getCacheOperationMetadata(org.springframework.cache.interceptor.CacheOperation, java.lang.reflect.Method, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.SimpleKeyGenerator java.lang.Object generateKey(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheOperationInvoker.ThrowableWrapper java.lang.Throwable getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheEvictOperation java.lang.StringBuilder getOperationDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor org.springframework.aop.Pointcut getPointcut()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.KeyGenerator java.lang.Object generate(java.lang.Object, java.lang.reflect.Method, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cache.interceptor.NameMatchCacheOperationSource void setNameMap(java.util.Map&lt;java.lang.String,java.util.Collection&lt;org.springframework.cache.interceptor.CacheOperation&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.NamedCacheResolver java.util.Collection&lt;java.lang.String&gt; getCacheNames(org.springframework.cache.interceptor.CacheOperationInvocationContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport java.util.Collection&lt;? extends org.springframework.cache.Cache&gt; getCaches(org.springframework.cache.interceptor.CacheOperationInvocationContext&lt;org.springframework.cache.interceptor.CacheOperation&gt;, org.springframework.cache.interceptor.CacheResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport java.util.Collection&lt;? extends org.springframework.cache.Cache&gt; getCaches(org.springframework.cache.interceptor.CacheOperationInvocationContext&lt;org.springframework.cache.interceptor.CacheOperation&gt;, org.springframework.cache.interceptor.CacheResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.SimpleKeyGenerator java.lang.Object generate(java.lang.Object, java.lang.reflect.Method, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport.CacheOperationContext CacheOperationContext(org.springframework.cache.interceptor.CacheAspectSupport, org.springframework.cache.interceptor.CacheAspectSupport.CacheOperationMetadata, java.lang.Object[], java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.AbstractFallbackCacheOperationSource java.util.Collection&lt;org.springframework.cache.interceptor.CacheOperation&gt; getCacheOperations(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cache.interceptor.SimpleKeyGenerator java.lang.Object generate(java.lang.Object, java.lang.reflect.Method, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheProxyFactoryBean java.lang.Object createMainInterceptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.AbstractCacheResolver java.util.Collection&lt;java.lang.String&gt; getCacheNames(org.springframework.cache.interceptor.CacheOperationInvocationContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheOperation java.lang.StringBuilder getOperationDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport.CacheOperationContext java.util.Collection&lt;? extends org.springframework.cache.Cache&gt; getCaches()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport void setCacheOperationSources(org.springframework.cache.interceptor.CacheOperationSource...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.NameMatchCacheOperationSource java.util.Collection&lt;org.springframework.cache.interceptor.CacheOperation&gt; getCacheOperations(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.KeyGenerator java.lang.Object generate(java.lang.Object, java.lang.reflect.Method, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheAspectSupport org.springframework.cache.interceptor.CacheAspectSupport.CacheOperationContext getOperationContext(org.springframework.cache.interceptor.CacheOperation, java.lang.reflect.Method, java.lang.Object[], java.lang.Object, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheableOperation java.lang.StringBuilder getOperationDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.interceptor.CacheOperation void setCacheNames(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

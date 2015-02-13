@@ -1,0 +1,632 @@
+<root>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parsePropertyElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.support.AbstractBeanDefinition parseBeanDefinitionAttributes(org.w3c.dom.Element, java.lang.String, org.springframework.beans.factory.config.BeanDefinition, org.springframework.beans.factory.support.AbstractBeanDefinition) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DESCRIPTION_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader void processAliasRegistration(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate IDREF_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.Object parsePropertySubElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.config.BeanDefinitionHolder decorateIfRequired(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DESTROY_METHOD_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEPENDS_ON_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate ARRAY_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEFAULT_AUTOWIRE_CANDIDATES_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate VALUE_REF_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate PARENT_REF_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate KEY_TYPE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.XmlBeanDefinitionReader void setDocumentReaderClass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate CLASS_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate KEY_REF_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.config.BeanDefinitionHolder parseBeanDefinitionElement(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate VALUE_TYPE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate MAP_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.support.AbstractBeanDefinition createBeanDefinition(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate BEAN_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate SET_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate LOCAL_REF_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate KEY_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.SimplePropertyNamespaceHandler org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader RESOURCE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate META_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.Object parsePropertyValue(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractSingleBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.config.TypedStringValue buildTypedStringValue(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.Object parseValueElement(org.w3c.dom.Element, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultNamespaceHandlerResolver DEFAULT_HANDLER_MAPPINGS_LOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void populateDefaults(org.springframework.beans.factory.xml.DocumentDefaultsDefinition, org.springframework.beans.factory.xml.DocumentDefaultsDefinition, org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate AUTOWIRE_BY_TYPE_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.Object parseArrayElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader ALIAS_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate LOOKUP_METHOD_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.util.Set&lt;java.lang.Object&gt; parseSetElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate ARG_TYPE_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.util.Set&lt;java.lang.Object&gt; parseSetElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate INIT_METHOD_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.util.List&lt;java.lang.Object&gt; parseListElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate AUTOWIRE_CANDIDATE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader BEAN_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.SimplePropertyNamespaceHandler org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEFAULT_INIT_METHOD_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader org.springframework.beans.factory.xml.BeanDefinitionParserDelegate createDelegate(org.springframework.beans.factory.xml.XmlReaderContext, org.w3c.dom.Element, org.springframework.beans.factory.xml.BeanDefinitionParserDelegate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEPENDENCY_CHECK_SIMPLE_ATTRIBUTE_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate PROP_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader void processBeanDefinition(org.w3c.dom.Element, org.springframework.beans.factory.xml.BeanDefinitionParserDelegate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractSingleBeanDefinitionParser org.springframework.beans.factory.support.AbstractBeanDefinition parseInternal(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader org.springframework.beans.factory.xml.BeanDefinitionParserDelegate createDelegate(org.springframework.beans.factory.xml.XmlReaderContext, org.w3c.dom.Element, org.springframework.beans.factory.xml.BeanDefinitionParserDelegate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parseConstructorArgElements(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.config.BeanDefinitionHolder decorateBeanDefinitionIfRequired(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinitionHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.SimpleConstructorNamespaceHandler org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.NamespaceHandlerSupport org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate AUTOWIRE_AUTODETECT_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.NamespaceHandlerSupport org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.support.AbstractBeanDefinition parseBeanDefinitionElement(org.w3c.dom.Element, java.lang.String, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate BEAN_REF_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parseConstructorArgElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate NULL_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.SimpleConstructorNamespaceHandler org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader IMPORT_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate REF_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parsePropertyElements(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.XmlBeanDefinitionReader int loadBeanDefinitions(org.springframework.core.io.support.EncodedResource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader ALIAS_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate CONSTRUCTOR_ARG_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate REF_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractBeanDefinitionParser void registerBeanDefinition(org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.support.BeanDefinitionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.ParserContext void registerBeanComponent(org.springframework.beans.factory.parsing.BeanComponentDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.SimplePropertyNamespaceHandler org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate SCOPE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate AUTOWIRE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.String getLocalName(org.w3c.dom.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.PluggableSchemaResolver DEFAULT_SCHEMA_MAPPINGS_LOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.NamespaceHandler org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.util.Properties parsePropsElement(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate boolean nodeNameEquals(org.w3c.dom.Node, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.NamespaceHandlerSupport org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractBeanDefinitionParser NAME_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractBeanDefinitionParser org.springframework.beans.factory.support.AbstractBeanDefinition parseInternal(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.util.Properties parsePropsElement(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.support.AbstractBeanDefinition parseBeanDefinitionAttributes(org.w3c.dom.Element, java.lang.String, org.springframework.beans.factory.config.BeanDefinition, org.springframework.beans.factory.support.AbstractBeanDefinition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate BEAN_NAME_DELIMITERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate NAME_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate boolean parseMergeAttribute(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate BEANS_NAMESPACE_URI'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEPENDENCY_CHECK_ALL_ATTRIBUTE_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate FALSE_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate INDEX_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate LAZY_INIT_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.xml.DocumentDefaultsDefinition getDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parseLookupOverrideSubElements(org.w3c.dom.Element, org.springframework.beans.factory.support.MethodOverrides) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate REPLACER_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.NamespaceHandler org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionDocumentReader void registerBeanDefinitions(org.w3c.dom.Document, org.springframework.beans.factory.xml.XmlReaderContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate VALUE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.Object parsePropertySubElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate TYPE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate PRIMARY_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void initDefaults(org.w3c.dom.Element, org.springframework.beans.factory.xml.BeanDefinitionParserDelegate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEFAULT_DEPENDENCY_CHECK_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate MERGE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader PROFILE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.Object parseKeyElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate PROPERTY_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate FACTORY_METHOD_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parseQualifierElement(org.w3c.dom.Element, org.springframework.beans.factory.support.AbstractBeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractSimpleBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader NAME_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParser org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParser org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.Object parseIdRefElement(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEPENDENCY_CHECK_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.NamespaceHandler org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.ResourceEntityResolver ResourceEntityResolver(org.springframework.core.io.ResourceLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DelegatingEntityResolver DTD_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parseReplacedMethodSubElements(org.w3c.dom.Element, org.springframework.beans.factory.support.MethodOverrides) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate ABSTRACT_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate AUTOWIRE_CONSTRUCTOR_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.NamespaceHandler org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractBeanDefinitionParser org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractBeanDefinitionParser org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader void processBeanDefinition(org.w3c.dom.Element, org.springframework.beans.factory.xml.BeanDefinitionParserDelegate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.config.BeanDefinition parseCustomElement(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.Object parseArrayElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.lang.String getNamespaceURI(org.w3c.dom.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate KEY_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.XmlBeanDefinitionReader int detectValidationMode(org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader void registerBeanDefinitions(org.w3c.dom.Document, org.springframework.beans.factory.xml.XmlReaderContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate AUTOWIRE_BY_NAME_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.util.Map&lt;java.lang.Object,java.lang.Object&gt; parseMapElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.NamespaceHandlerSupport org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractBeanDefinitionParser void registerBeanDefinition(org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.support.BeanDefinitionRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractSimpleBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.config.BeanDefinitionHolder parseBeanDefinitionElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEFAULT_AUTOWIRE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.util.List&lt;java.lang.Object&gt; parseListElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.support.AbstractBeanDefinition parseBeanDefinitionAttributes(org.w3c.dom.Element, java.lang.String, org.springframework.beans.factory.config.BeanDefinition, org.springframework.beans.factory.support.AbstractBeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEFAULT_LAZY_INIT_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.XmlBeanDefinitionReader org.springframework.beans.factory.xml.XmlReaderContext createReaderContext(org.springframework.core.io.Resource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.SimpleConstructorNamespaceHandler org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEPENDENCY_CHECK_OBJECTS_ATTRIBUTE_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader void importBeanDefinitionResource(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate ID_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader void doRegisterBeanDefinitions(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate LIST_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.config.BeanDefinition parseCustomElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void initDefaults(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.config.BeanDefinitionHolder decorateBeanDefinitionIfRequired(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractBeanDefinitionParser ID_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractSimpleBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate PARENT_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader void parseBeanDefinitions(org.w3c.dom.Element, org.springframework.beans.factory.xml.BeanDefinitionParserDelegate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate VALUE_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate boolean isDefaultNamespace(org.w3c.dom.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void populateDefaults(org.springframework.beans.factory.xml.DocumentDefaultsDefinition, org.springframework.beans.factory.xml.DocumentDefaultsDefinition, org.w3c.dom.Element) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate AUTOWIRE_NO_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate TRUE_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractSingleBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEFAULT_DESTROY_METHOD_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate org.springframework.beans.factory.support.BeanDefinitionDefaults getBeanDefinitionDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DelegatingEntityResolver XSD_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parseCollectionElements(org.w3c.dom.NodeList, java.util.Collection&lt;java.lang.Object&gt;, org.springframework.beans.factory.config.BeanDefinition, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultDocumentLoader javax.xml.parsers.DocumentBuilderFactory createDocumentBuilderFactory(int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate REPLACED_METHOD_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate FACTORY_BEAN_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate QUALIFIER_ATTRIBUTE_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader NESTED_BEANS_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultDocumentLoader javax.xml.parsers.DocumentBuilder createDocumentBuilder(javax.xml.parsers.DocumentBuilderFactory, org.xml.sax.EntityResolver, org.xml.sax.ErrorHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parseMetaElements(org.w3c.dom.Element, org.springframework.beans.BeanMetadataAttributeAccessor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate PROPS_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate void parseQualifierElements(org.w3c.dom.Element, org.springframework.beans.factory.support.AbstractBeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate ARG_TYPE_MATCH_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEFAULT_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader void parseBeanDefinitions(org.w3c.dom.Element, org.springframework.beans.factory.xml.BeanDefinitionParserDelegate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate DEFAULT_MERGE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.AbstractSingleBeanDefinitionParser void doParse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext, org.springframework.beans.factory.support.BeanDefinitionBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate ENTRY_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate boolean nodeNameEquals(org.w3c.dom.Node, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate QUALIFIER_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.SimpleConstructorNamespaceHandler org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate MULTI_VALUE_ATTRIBUTE_DELIMITERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.XmlBeanDefinitionReader org.springframework.beans.factory.xml.NamespaceHandlerResolver createDefaultNamespaceHandlerResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.xml.SimplePropertyNamespaceHandler org.springframework.beans.factory.config.BeanDefinitionHolder decorate(org.w3c.dom.Node, org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.xml.BeanDefinitionParserDelegate java.util.Map&lt;java.lang.Object,java.lang.Object&gt; parseMapElement(org.w3c.dom.Element, org.springframework.beans.factory.config.BeanDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

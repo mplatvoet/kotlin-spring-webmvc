@@ -1,0 +1,38 @@
+<root>
+    <item name='org.springframework.aop.target.CommonsPoolTargetSource org.apache.commons.pool.ObjectPool createObjectPool()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.AbstractPoolingTargetSource void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.ThreadLocalTargetSource org.springframework.aop.IntroductionAdvisor getStatsMixin()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.EmptyTargetSource INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.EmptyTargetSource org.springframework.aop.target.EmptyTargetSource forClass(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.AbstractPrototypeBasedTargetSource void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.AbstractBeanFactoryBasedTargetSource void copyFrom(org.springframework.aop.target.AbstractBeanFactoryBasedTargetSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.EmptyTargetSource org.springframework.aop.target.EmptyTargetSource forClass(java.lang.Class&lt;?&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.AbstractBeanFactoryBasedTargetSource void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.target.AbstractPrototypeBasedTargetSource java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.target.AbstractPoolingTargetSource org.springframework.aop.support.DefaultIntroductionAdvisor getPoolingConfigMixin()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

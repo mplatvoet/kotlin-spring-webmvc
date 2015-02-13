@@ -1,0 +1,155 @@
+<root>
+    <item name='org.springframework.http.client.SimpleClientHttpRequestFactory void prepareConnection(java.net.HttpURLConnection, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.SimpleClientHttpRequestFactory java.net.HttpURLConnection openConnection(java.net.URL, java.net.Proxy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.AbstractClientHttpRequest org.springframework.http.client.ClientHttpResponse executeInternal(org.springframework.http.HttpHeaders)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.AbstractClientHttpRequest org.springframework.http.HttpHeaders getHeaders()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.AsyncClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.HttpComponentsClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.AbstractClientHttpRequestFactoryWrapper org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.client.ClientHttpRequestFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.AbstractClientHttpRequestFactoryWrapper org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.client.ClientHttpRequestFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.InterceptingClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.client.ClientHttpRequestFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.SimpleClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.ClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.AbstractClientHttpResponse org.springframework.http.HttpStatus getStatusCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.ClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.HttpComponentsAsyncClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.SimpleClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.SimpleClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.AbstractClientHttpRequestFactoryWrapper org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.HttpComponentsAsyncClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.AsyncClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.HttpComponentsClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.HttpComponentsClientHttpRequestFactory org.apache.http.client.methods.HttpUriRequest createHttpUriRequest(org.springframework.http.HttpMethod, java.net.URI) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.AsyncClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.SimpleClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.BufferingClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.client.ClientHttpRequestFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.AbstractClientHttpRequest org.springframework.http.client.ClientHttpResponse executeInternal(org.springframework.http.HttpHeaders) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.HttpComponentsAsyncClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.ClientHttpResponse org.springframework.http.HttpStatus getStatusCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.HttpComponentsClientHttpRequestFactory org.apache.http.client.methods.HttpUriRequest createHttpUriRequest(org.springframework.http.HttpMethod, java.net.URI)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.ClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.InterceptingClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod, org.springframework.http.client.ClientHttpRequestFactory) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.SimpleClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.AbstractClientHttpRequestFactoryWrapper org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.client.HttpComponentsClientHttpRequestFactory org.springframework.http.client.ClientHttpRequest createRequest(java.net.URI, org.springframework.http.HttpMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.client.SimpleClientHttpRequestFactory org.springframework.http.client.AsyncClientHttpRequest createAsyncRequest(java.net.URI, org.springframework.http.HttpMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

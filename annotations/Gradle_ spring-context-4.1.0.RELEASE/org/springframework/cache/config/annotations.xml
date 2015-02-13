@@ -1,0 +1,14 @@
+<root>
+    <item name='org.springframework.cache.config.CacheManagementConfigUtils JCACHE_ADVISOR_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.config.CacheManagementConfigUtils CACHE_ASPECT_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.config.CacheManagementConfigUtils JCACHE_ASPECT_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.config.CacheManagementConfigUtils CACHE_ADVISOR_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

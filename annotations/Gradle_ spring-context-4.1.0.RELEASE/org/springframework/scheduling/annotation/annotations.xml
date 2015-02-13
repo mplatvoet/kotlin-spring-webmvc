@@ -1,0 +1,26 @@
+<root>
+    <item name='org.springframework.scheduling.annotation.AsyncAnnotationAdvisor org.aopalliance.aop.Advice buildAdvice(java.util.concurrent.Executor, org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.annotation.AbstractAsyncConfiguration void setImportMetadata(org.springframework.core.type.AnnotationMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.annotation.ProxyAsyncConfiguration org.springframework.scheduling.annotation.AsyncAnnotationBeanPostProcessor asyncAdvisor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.annotation.SchedulingConfiguration org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor scheduledAnnotationProcessor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.annotation.AsyncAnnotationAdvisor org.springframework.aop.Pointcut buildPointcut(java.util.Set&lt;java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor void processScheduled(org.springframework.scheduling.annotation.Scheduled, java.lang.reflect.Method, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.annotation.AsyncConfigurationSelector java.lang.String[] selectImports(org.springframework.context.annotation.AdviceMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor void processScheduled(org.springframework.scheduling.annotation.Scheduled, java.lang.reflect.Method, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

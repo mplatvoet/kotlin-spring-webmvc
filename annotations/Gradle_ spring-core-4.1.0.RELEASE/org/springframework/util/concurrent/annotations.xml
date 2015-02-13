@@ -1,0 +1,77 @@
+<root>
+    <item name='org.springframework.util.concurrent.ListenableFutureAdapter void addCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;, org.springframework.util.concurrent.FailureCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureCallbackRegistry void addCallback(org.springframework.util.concurrent.ListenableFutureCallback&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.SettableListenableFuture boolean setException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureAdapter void addCallback(org.springframework.util.concurrent.ListenableFutureCallback&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.util.concurrent.SettableListenableFuture void addCallback(org.springframework.util.concurrent.ListenableFutureCallback&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFuture void addCallback(org.springframework.util.concurrent.ListenableFutureCallback&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureAdapter void addCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;, org.springframework.util.concurrent.FailureCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.util.concurrent.FutureAdapter FutureAdapter(java.util.concurrent.Future&lt;S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.SettableListenableFuture void addCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;, org.springframework.util.concurrent.FailureCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.SettableListenableFuture void addCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;, org.springframework.util.concurrent.FailureCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFuture void addCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;, org.springframework.util.concurrent.FailureCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureTask void addCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;, org.springframework.util.concurrent.FailureCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFuture void addCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;, org.springframework.util.concurrent.FailureCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureTask void addCallback(org.springframework.util.concurrent.ListenableFutureCallback&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureTask void addCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;, org.springframework.util.concurrent.FailureCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.FutureAdapter java.util.concurrent.Future&lt;S&gt; getAdaptee()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureCallbackRegistry void addSuccessCallback(org.springframework.util.concurrent.SuccessCallback&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureAdapter ListenableFutureAdapter(org.springframework.util.concurrent.ListenableFuture&lt;S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.util.concurrent.ListenableFutureCallbackRegistry void addFailureCallback(org.springframework.util.concurrent.FailureCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,230 @@
+<root>
+    <item name='org.springframework.jmx.export.assembler.MetadataMBeanInfoAssembler boolean includeOperation(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MethodExclusionMBeanInfoAssembler boolean includeOperation(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler void populateAttributeDescriptor(javax.management.Descriptor, java.lang.reflect.Method, java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_PERSIST_POLICY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_SET_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.InterfaceBasedMBeanInfoAssembler boolean includeOperation(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MetadataMBeanInfoAssembler javax.management.modelmbean.ModelMBeanNotificationInfo[] getNotificationInfo(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler ROLE_OPERATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MetadataMBeanInfoAssembler javax.management.MBeanParameterInfo[] getOperationParameters(java.lang.reflect.Method, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractMBeanInfoAssembler javax.management.modelmbean.ModelMBeanNotificationInfo[] getNotificationInfo(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MetadataMBeanInfoAssembler java.lang.String getOperationDescription(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractMBeanInfoAssembler javax.management.modelmbean.ModelMBeanConstructorInfo[] getConstructorInfo(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MetadataMBeanInfoAssembler boolean includeWriteAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MethodExclusionMBeanInfoAssembler void setIgnoredMethodMappings(java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MethodNameBasedMBeanInfoAssembler boolean includeWriteAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_PERSIST_LOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MethodNameBasedMBeanInfoAssembler boolean includeOperation(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_LOG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler ROLE_GETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MethodNameBasedMBeanInfoAssembler void setMethodMappings(java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler java.lang.String getAttributeDescription(java.beans.PropertyDescriptor, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler javax.management.MBeanParameterInfo[] getOperationParameters(java.lang.reflect.Method, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_PERSIST_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_METRIC_CATEGORY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractConfigurableMBeanInfoAssembler void setNotificationInfos(org.springframework.jmx.export.metadata.ManagedNotification[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MetadataMBeanInfoAssembler void populateAttributeDescriptor(javax.management.Descriptor, java.lang.reflect.Method, java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.SimpleReflectiveMBeanInfoAssembler boolean includeWriteAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MetadataMBeanInfoAssembler boolean includeReadAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler boolean includeReadAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractConfigurableMBeanInfoAssembler void setNotificationInfoMappings(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MethodExclusionMBeanInfoAssembler boolean includeReadAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler javax.management.modelmbean.ModelMBeanOperationInfo createModelMBeanOperationInfo(java.lang.reflect.Method, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractMBeanInfoAssembler javax.management.modelmbean.ModelMBeanInfo getMBeanInfo(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_CURRENCY_TIME_LIMIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_UNITS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.InterfaceBasedMBeanInfoAssembler boolean includeWriteAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler javax.management.modelmbean.ModelMBeanOperationInfo createModelMBeanOperationInfo(java.lang.reflect.Method, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.SimpleReflectiveMBeanInfoAssembler boolean includeOperation(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MetadataMBeanInfoAssembler java.lang.String getAttributeDescription(java.beans.PropertyDescriptor, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MethodExclusionMBeanInfoAssembler boolean includeWriteAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.InterfaceBasedMBeanInfoAssembler boolean includeReadAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MBeanInfoAssembler javax.management.modelmbean.ModelMBeanInfo getMBeanInfo(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler boolean includeWriteAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler boolean includeOperation(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_PERSIST_PERIOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_DISPLAY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractConfigurableMBeanInfoAssembler javax.management.modelmbean.ModelMBeanNotificationInfo[] getNotificationInfo(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.SimpleReflectiveMBeanInfoAssembler boolean includeReadAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler java.lang.String getOperationDescription(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler ROLE_SETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_LOG_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_METRIC_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_ROLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.MethodNameBasedMBeanInfoAssembler boolean includeReadAttribute(java.lang.reflect.Method, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_GET_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.assembler.AbstractReflectiveMBeanInfoAssembler FIELD_VISIBILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

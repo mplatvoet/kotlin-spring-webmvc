@@ -1,0 +1,116 @@
+<root>
+    <item name='org.springframework.http.converter.xml.AbstractXmlHttpMessageConverter void writeInternal(T, org.springframework.http.HttpOutputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.SourceHttpMessageConverter java.lang.Object readInternal(java.lang.Class, org.springframework.http.HttpInputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.MarshallingHttpMessageConverter boolean canRead(java.lang.Class&lt;?&gt;, org.springframework.http.MediaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter java.lang.Object read(java.lang.reflect.Type, java.lang.Class, org.springframework.http.HttpInputMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.SourceHttpMessageConverter T readInternal(java.lang.Class&lt;? extends T&gt;, org.springframework.http.HttpInputMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter java.lang.Object read(java.lang.reflect.Type, java.lang.Class, org.springframework.http.HttpInputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter boolean canRead(java.lang.Class&lt;?&gt;, org.springframework.http.MediaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter java.lang.Object readFromSource(java.lang.Class&lt;?&gt;, org.springframework.http.HttpHeaders, javax.xml.transform.Source) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.MarshallingHttpMessageConverter void writeToResult(java.lang.Object, org.springframework.http.HttpHeaders, javax.xml.transform.Result) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter void writeToResult(java.lang.Object, org.springframework.http.HttpHeaders, javax.xml.transform.Result) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.AbstractXmlHttpMessageConverter T readFromSource(java.lang.Class&lt;? extends T&gt;, org.springframework.http.HttpHeaders, javax.xml.transform.Source) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.SourceHttpMessageConverter void writeInternal(java.lang.Object, org.springframework.http.HttpOutputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter T read(java.lang.reflect.Type, java.lang.Class&lt;?&gt;, org.springframework.http.HttpInputMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter T read(java.lang.reflect.Type, java.lang.Class&lt;?&gt;, org.springframework.http.HttpInputMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter void writeToResult(java.lang.Object, org.springframework.http.HttpHeaders, javax.xml.transform.Result) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter T createCollection(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.SourceHttpMessageConverter T readInternal(java.lang.Class&lt;? extends T&gt;, org.springframework.http.HttpInputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter java.lang.Object readFromSource(java.lang.Class, org.springframework.http.HttpHeaders, javax.xml.transform.Source) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.AbstractXmlHttpMessageConverter void writeInternal(T, org.springframework.http.HttpOutputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter javax.xml.stream.XMLInputFactory createXmlInputFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.SourceHttpMessageConverter java.lang.Long getContentLength(java.lang.Object, org.springframework.http.MediaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter boolean canRead(java.lang.Class&lt;?&gt;, org.springframework.http.MediaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.SourceHttpMessageConverter void writeInternal(T, org.springframework.http.HttpOutputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.MarshallingHttpMessageConverter java.lang.Object readFromSource(java.lang.Class&lt;?&gt;, org.springframework.http.HttpHeaders, javax.xml.transform.Source) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.SourceHttpMessageConverter java.lang.Object readInternal(java.lang.Class, org.springframework.http.HttpInputMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.AbstractXmlHttpMessageConverter T readInternal(java.lang.Class&lt;? extends T&gt;, org.springframework.http.HttpInputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.converter.xml.AbstractXmlHttpMessageConverter void writeToResult(T, org.springframework.http.HttpHeaders, javax.xml.transform.Result) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.converter.xml.SourceHttpMessageConverter void writeInternal(java.lang.Object, org.springframework.http.HttpOutputMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,98 @@
+<root>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo org.springframework.web.servlet.mvc.condition.ParamsRequestCondition getParamsCondition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo org.springframework.web.servlet.mvc.condition.HeadersRequestCondition getHeadersCondition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMethodMappingNamingStrategy java.lang.String getName(org.springframework.web.method.HandlerMethod, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo org.springframework.web.servlet.mvc.condition.ProducesRequestCondition getProducesCondition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter org.springframework.web.servlet.ModelAndView handleInternal(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.springframework.web.method.HandlerMethod) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter org.springframework.web.servlet.ModelAndView handleInternal(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.springframework.web.method.HandlerMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo int compareTo(org.springframework.web.servlet.mvc.method.RequestMappingInfo, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMethodMappingNamingStrategy SEPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo org.springframework.web.servlet.mvc.condition.ConsumesRequestCondition getConsumesCondition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo org.springframework.web.servlet.mvc.method.RequestMappingInfo combine(org.springframework.web.servlet.mvc.method.RequestMappingInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping java.util.Comparator&lt;org.springframework.web.servlet.mvc.method.RequestMappingInfo&gt; getMappingComparator(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo int compareTo(java.lang.Object, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping java.lang.Object getMatchingMapping(java.lang.Object, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo java.lang.Object combine(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo org.springframework.web.servlet.mvc.condition.PatternsRequestCondition getPatternsCondition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping org.springframework.web.method.HandlerMethod handleNoMatch(java.util.Set&lt;org.springframework.web.servlet.mvc.method.RequestMappingInfo&gt;, java.lang.String, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo org.springframework.web.servlet.mvc.method.RequestMappingInfo combine(org.springframework.web.servlet.mvc.method.RequestMappingInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo RequestMappingInfo(org.springframework.web.servlet.mvc.method.RequestMappingInfo, org.springframework.web.servlet.mvc.condition.RequestCondition&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo org.springframework.web.servlet.mvc.condition.RequestMethodsRequestCondition getMethodsCondition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping java.util.Set&lt;java.lang.String&gt; getMappingPathPatterns(org.springframework.web.servlet.mvc.method.RequestMappingInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping void handleMatch(java.lang.Object, java.lang.String, javax.servlet.http.HttpServletRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfo java.lang.Object combine(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping void handleMatch(org.springframework.web.servlet.mvc.method.RequestMappingInfo, java.lang.String, javax.servlet.http.HttpServletRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping java.util.Set getMappingPathPatterns(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping void handleMatch(java.lang.Object, java.lang.String, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping org.springframework.web.servlet.mvc.method.RequestMappingInfo getMatchingMapping(org.springframework.web.servlet.mvc.method.RequestMappingInfo, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMethodMappingNamingStrategy java.lang.String getName(org.springframework.web.method.HandlerMethod, org.springframework.web.servlet.mvc.method.RequestMappingInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter org.springframework.web.servlet.ModelAndView handle(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping void handleMatch(org.springframework.web.servlet.mvc.method.RequestMappingInfo, java.lang.String, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

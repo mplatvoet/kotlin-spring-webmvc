@@ -1,0 +1,8 @@
+<root>
+    <item name='org.junit.matchers.JUnitMatchers org.hamcrest.Matcher&lt;T&gt; isException(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.matchers.JUnitMatchers org.hamcrest.Matcher&lt;T&gt; isThrowable(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

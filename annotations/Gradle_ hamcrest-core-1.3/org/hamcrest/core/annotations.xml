@@ -1,0 +1,266 @@
+<root>
+    <item name='org.hamcrest.core.IsNull org.hamcrest.Matcher&lt;java.lang.Object&gt; notNullValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsInstanceOf org.hamcrest.Matcher&lt;T&gt; any(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AllOf org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsSame void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining boolean matchesSafely(java.lang.Iterable&lt;? super T&gt;, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Every boolean matchesSafely(java.lang.Object, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining org.hamcrest.Matcher&lt;java.lang.Iterable&lt;? super T&gt;&gt; hasItem(org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.StringStartsWith org.hamcrest.Matcher&lt;java.lang.String&gt; startsWith(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AllOf void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Every boolean matchesSafely(java.lang.Iterable&lt;T&gt;, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AnyOf org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;? super T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsNull org.hamcrest.Matcher&lt;java.lang.Object&gt; nullValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.SubstringMatcher boolean evalSubstringOf(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.core.AnyOf void describeTo(org.hamcrest.Description, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.StringEndsWith org.hamcrest.Matcher&lt;java.lang.String&gt; endsWith(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AnyOf org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.SubstringMatcher void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsInstanceOf void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsAnything void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.StringStartsWith java.lang.String relationship()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining boolean matchesSafely(java.lang.Object, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsSame org.hamcrest.Matcher&lt;T&gt; sameInstance(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.SubstringMatcher void describeMismatchSafely(java.lang.String, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.CombinableMatcher org.hamcrest.core.CombinableMatcher&lt;T&gt; or(org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.DescribedAs void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.core.DescribedAs DescribedAs(java.lang.String, org.hamcrest.Matcher&lt;T&gt;, java.lang.Object[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.StringEndsWith java.lang.String relationship()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AllOf org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsEqual org.hamcrest.Matcher&lt;T&gt; equalTo(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.CombinableMatcher org.hamcrest.core.CombinableMatcher.CombinableBothMatcher&lt;LHS&gt; both(org.hamcrest.Matcher&lt;? super LHS&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AnyOf org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Every org.hamcrest.Matcher&lt;java.lang.Iterable&lt;U&gt;&gt; everyItem(org.hamcrest.Matcher&lt;U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsAnything org.hamcrest.Matcher&lt;java.lang.Object&gt; anything(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.StringContains java.lang.String relationship()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.SubstringMatcher void describeMismatchSafely(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsNull org.hamcrest.Matcher&lt;T&gt; notNullValue(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsNot org.hamcrest.Matcher&lt;T&gt; not(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AnyOf org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.CombinableMatcher.CombinableBothMatcher org.hamcrest.core.CombinableMatcher&lt;X&gt; and(org.hamcrest.Matcher&lt;? super X&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.SubstringMatcher java.lang.String relationship()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.core.Is void describeMismatch(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AnyOf org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AllOf org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.CombinableMatcher void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Is org.hamcrest.Matcher&lt;T&gt; is(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsInstanceOf org.hamcrest.Matcher&lt;T&gt; instanceOf(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AllOf org.hamcrest.Matcher&lt;T&gt; allOf(java.lang.Iterable&lt;org.hamcrest.Matcher&lt;? super T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.StringEndsWith boolean evalSubstringOf(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AnyOf org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AllOf org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.CombinableMatcher boolean matchesSafely(T, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.core.StringContains org.hamcrest.Matcher&lt;java.lang.String&gt; containsString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsSame org.hamcrest.Matcher&lt;T&gt; theInstance(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining org.hamcrest.Matcher&lt;java.lang.Iterable&lt;? super T&gt;&gt; hasItem(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Every void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Is org.hamcrest.Matcher&lt;T&gt; isA(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsNot org.hamcrest.Matcher&lt;T&gt; not(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AnyOf void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AllOf org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsAnything org.hamcrest.Matcher&lt;java.lang.Object&gt; anything()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsNull org.hamcrest.Matcher&lt;T&gt; nullValue(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.StringContains boolean evalSubstringOf(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsNull void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.CombinableMatcher.CombinableEitherMatcher org.hamcrest.core.CombinableMatcher&lt;X&gt; or(org.hamcrest.Matcher&lt;? super X&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.CombinableMatcher org.hamcrest.core.CombinableMatcher.CombinableEitherMatcher&lt;LHS&gt; either(org.hamcrest.Matcher&lt;? super LHS&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Is org.hamcrest.Matcher&lt;T&gt; is(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsNot void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(org.hamcrest.Matcher&lt;? super T&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AnyOf org.hamcrest.core.AnyOf&lt;T&gt; anyOf(java.lang.Iterable&lt;org.hamcrest.Matcher&lt;? super T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.DescribedAs void describeMismatch(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(org.hamcrest.Matcher&lt;? super T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.CombinableMatcher org.hamcrest.core.CombinableMatcher&lt;T&gt; and(org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsCollectionContaining void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Is void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.Is org.hamcrest.Matcher&lt;T&gt; is(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.AllOf org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.DescribedAs org.hamcrest.Matcher&lt;T&gt; describedAs(java.lang.String, org.hamcrest.Matcher&lt;T&gt;, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.DescribedAs org.hamcrest.Matcher&lt;T&gt; describedAs(java.lang.String, org.hamcrest.Matcher&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.IsEqual void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.core.StringStartsWith boolean evalSubstringOf(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

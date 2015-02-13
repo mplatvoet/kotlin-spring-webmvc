@@ -1,0 +1,197 @@
+<root>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils void fillProperties(java.util.Properties, org.springframework.core.io.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver org.springframework.core.io.Resource convertClassLoaderURL(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePatternUtils org.springframework.core.io.support.ResourcePatternResolver getResourcePatternResolver(org.springframework.core.io.ResourceLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.SpringFactoriesLoader FACTORIES_RESOURCE_LOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver boolean isJarResource(org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils java.util.Properties loadProperties(org.springframework.core.io.support.EncodedResource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource ResourcePropertySource(java.lang.String, org.springframework.core.io.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver java.util.Set&lt;org.springframework.core.io.Resource&gt; doFindPathMatchingJarResources(org.springframework.core.io.Resource, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils java.util.Properties loadAllProperties(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource ResourcePropertySource(org.springframework.core.io.support.EncodedResource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.SpringFactoriesLoader java.util.List&lt;T&gt; loadFactories(java.lang.Class&lt;T&gt;, java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver org.springframework.core.io.Resource getResource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver java.util.Set&lt;org.springframework.core.io.Resource&gt; doFindMatchingFileSystemResources(java.io.File, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.EncodedResource EncodedResource(org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourceArrayPropertyEditor ResourceArrayPropertyEditor(org.springframework.core.io.support.ResourcePatternResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver org.springframework.core.io.Resource convertClassLoaderURL(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.SpringFactoriesLoader java.util.List&lt;java.lang.String&gt; loadFactoryNames(java.lang.Class&lt;?&gt;, java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.EncodedResource java.io.Reader getReader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils void fillProperties(java.util.Properties, org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver PathMatchingResourcePatternResolver(org.springframework.core.io.ResourceLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils void fillProperties(java.util.Properties, org.springframework.core.io.support.EncodedResource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver org.springframework.core.io.ResourceLoader getResourceLoader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.LocalizedResourceHelper org.springframework.core.io.Resource findLocalizedResource(java.lang.String, java.lang.String, java.util.Locale) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePatternUtils org.springframework.core.io.support.ResourcePatternResolver getResourcePatternResolver(org.springframework.core.io.ResourceLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.LocalizedResourceHelper LocalizedResourceHelper(org.springframework.core.io.ResourceLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource ResourcePropertySource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource ResourcePropertySource(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePatternResolver CLASSPATH_ALL_URL_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.EncodedResource EncodedResource(org.springframework.core.io.Resource, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.LocalizedResourceHelper DEFAULT_SEPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver void setPathMatcher(org.springframework.util.PathMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver java.util.jar.JarFile getJarFile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils java.util.Properties loadProperties(org.springframework.core.io.Resource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver java.lang.String determineRootDir(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.EncodedResource EncodedResource(org.springframework.core.io.Resource, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver org.springframework.core.io.Resource[] findPathMatchingResources(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.LocalizedResourceHelper org.springframework.core.io.Resource findLocalizedResource(java.lang.String, java.lang.String, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver java.util.Set&lt;java.io.File&gt; retrieveMatchingFiles(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver java.util.Set&lt;org.springframework.core.io.Resource&gt; doFindPathMatchingJarResources(org.springframework.core.io.Resource, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourceArrayPropertyEditor ResourceArrayPropertyEditor(org.springframework.core.io.support.ResourcePatternResolver, org.springframework.core.env.PropertyResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils java.util.Properties loadAllProperties(java.lang.String, java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.EncodedResource org.springframework.core.io.Resource getResource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourceArrayPropertyEditor ResourceArrayPropertyEditor(org.springframework.core.io.support.ResourcePatternResolver, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource ResourcePropertySource(java.lang.String, org.springframework.core.io.support.EncodedResource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver org.springframework.core.io.Resource[] getResources(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource org.springframework.core.io.support.ResourcePropertySource withName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver java.util.jar.JarFile getJarFile(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource ResourcePropertySource(java.lang.String, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils java.util.Properties loadProperties(org.springframework.core.io.support.EncodedResource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils java.util.Properties loadAllProperties(java.lang.String, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils java.util.Properties loadAllProperties(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource org.springframework.core.io.support.ResourcePropertySource withResourceName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver java.util.Set&lt;org.springframework.core.io.Resource&gt; doFindMatchingFileSystemResources(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderSupport java.util.Properties mergeProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePatternResolver org.springframework.core.io.Resource[] getResources(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.io.support.PropertiesLoaderUtils java.util.Properties loadProperties(org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver void doRetrieveMatchingFiles(java.lang.String, java.io.File, java.util.Set&lt;java.io.File&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.SpringFactoriesLoader java.util.List&lt;java.lang.String&gt; loadFactoryNames(java.lang.Class&lt;?&gt;, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourceArrayPropertyEditor ResourceArrayPropertyEditor(org.springframework.core.io.support.ResourcePatternResolver, org.springframework.core.env.PropertyResolver, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.SpringFactoriesLoader java.util.List&lt;T&gt; loadFactories(java.lang.Class&lt;T&gt;, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource ResourcePropertySource(org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.PathMatchingResourcePatternResolver org.springframework.core.io.Resource[] findAllClassPathResources(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.io.support.ResourcePropertySource ResourcePropertySource(java.lang.String, java.lang.String, java.lang.ClassLoader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

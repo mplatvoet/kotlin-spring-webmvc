@@ -1,0 +1,59 @@
+<root>
+    <item name='org.springframework.web.jsf.FacesContextUtils org.springframework.web.context.WebApplicationContext getRequiredWebApplicationContext(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingPhaseListenerMulticaster void afterPhase(javax.faces.event.PhaseEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.FacesContextUtils java.lang.Object getSessionMutex(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.FacesContextUtils org.springframework.web.context.WebApplicationContext getRequiredWebApplicationContext(javax.faces.context.FacesContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingPhaseListenerMulticaster java.util.Collection&lt;javax.faces.event.PhaseListener&gt; getDelegates(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingNavigationHandlerProxy void handleNavigation(javax.faces.context.FacesContext, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingPhaseListenerMulticaster void beforePhase(javax.faces.event.PhaseEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingNavigationHandlerProxy org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.faces.context.FacesContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingPhaseListenerMulticaster org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.faces.context.FacesContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingPhaseListenerMulticaster org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingNavigationHandlerProxy DEFAULT_TARGET_BEAN_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingNavigationHandlerProxy javax.faces.application.NavigationHandler getDelegate(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingPhaseListenerMulticaster org.springframework.beans.factory.ListableBeanFactory getBeanFactory(javax.faces.context.FacesContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingNavigationHandlerProxy org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingPhaseListenerMulticaster org.springframework.beans.factory.ListableBeanFactory getBeanFactory(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingNavigationHandlerProxy org.springframework.beans.factory.BeanFactory getBeanFactory(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingNavigationHandlerProxy org.springframework.beans.factory.BeanFactory getBeanFactory(javax.faces.context.FacesContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.DelegatingNavigationHandlerProxy java.lang.String getTargetBeanName(javax.faces.context.FacesContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.jsf.FacesContextUtils org.springframework.web.context.WebApplicationContext getWebApplicationContext(javax.faces.context.FacesContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

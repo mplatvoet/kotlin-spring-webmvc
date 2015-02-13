@@ -1,0 +1,467 @@
+<root>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.SelfDescribing void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.TypeSafeMatcher void describeMismatchSafely(T, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.FeatureMatcher void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendDescriptionOf(org.hamcrest.SelfDescribing)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendDescriptionOf(org.hamcrest.SelfDescribing) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendText(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.String&gt; startsWith(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CustomMatcher CustomMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; isA(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Object&gt; anything(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; allOf(java.lang.Iterable&lt;org.hamcrest.Matcher&lt;? super T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.TypeSafeDiagnosingMatcher TypeSafeDiagnosingMatcher(org.hamcrest.internal.ReflectiveTypeFinder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseMatcher void describeMismatch(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; describedAs(java.lang.String, org.hamcrest.Matcher&lt;T&gt;, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendText(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.MatcherAssert void assertThat(T, org.hamcrest.Matcher&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.AnyOf&lt;T&gt; anyOf(java.lang.Iterable&lt;org.hamcrest.Matcher&lt;? super T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; is(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendText(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.CombinableMatcher.CombinableEitherMatcher&lt;LHS&gt; either(org.hamcrest.Matcher&lt;? super LHS&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Condition boolean matching(org.hamcrest.Matcher&lt;T&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendDescriptionOf(org.hamcrest.SelfDescribing) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendValue(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(org.hamcrest.Matcher&lt;? super T&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.DiagnosingMatcher void describeMismatch(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.BaseDescription void append(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendDescriptionOf(org.hamcrest.SelfDescribing)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.StringDescription void append(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;? super T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Object&gt; nullValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; equalTo(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.TypeSafeMatcher void describeMismatch(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CustomTypeSafeMatcher CustomTypeSafeMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CustomTypeSafeMatcher void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; describedAs(java.lang.String, org.hamcrest.Matcher&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Condition org.hamcrest.Condition&lt;T&gt; notMatched()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; not(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; sameInstance(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.TypeSafeDiagnosingMatcher void describeMismatch(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Matcher void describeMismatch(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Object&gt; notNullValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.String&gt; containsString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.CombinableMatcher.CombinableBothMatcher&lt;LHS&gt; both(org.hamcrest.Matcher&lt;? super LHS&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.TypeSafeMatcher TypeSafeMatcher(org.hamcrest.internal.ReflectiveTypeFinder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; is(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; nullValue(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;? super T&gt;&gt; hasItem(org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Condition NOT_MATCHED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(org.hamcrest.Matcher&lt;? super T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.TypeSafeDiagnosingMatcher boolean matchesSafely(T, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.MatcherAssert void assertThat(java.lang.String, T, org.hamcrest.Matcher&lt;? super T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; is(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendValue(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Object&gt; anything()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.FeatureMatcher boolean matchesSafely(T, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; any(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;? super T&gt;&gt; hasItem(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CustomMatcher void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendDescriptionOf(org.hamcrest.SelfDescribing) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendValue(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; instanceOf(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; not(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Condition org.hamcrest.Condition&lt;U&gt; and(org.hamcrest.Condition.Step&lt;? super T,U&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;U&gt;&gt; everyItem(org.hamcrest.Matcher&lt;U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.BaseDescription org.hamcrest.Description appendList(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends org.hamcrest.SelfDescribing&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; theInstance(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;java.lang.String&gt; endsWith(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendDescriptionOf(org.hamcrest.SelfDescribing)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Description.NullDescription org.hamcrest.Description appendValueList(java.lang.String, java.lang.String, java.lang.String, T...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; allOf(org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.Condition org.hamcrest.Condition&lt;T&gt; matched(T, org.hamcrest.Description)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.core.AnyOf&lt;T&gt; anyOf(org.hamcrest.Matcher&lt;T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;, org.hamcrest.Matcher&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.hamcrest.CoreMatchers org.hamcrest.Matcher&lt;T&gt; notNullValue(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

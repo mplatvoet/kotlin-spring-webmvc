@@ -1,0 +1,149 @@
+<root>
+    <item name='org.springframework.aop.interceptor.ExposeBeanNameAdvisors java.lang.String getBeanName(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ExposeBeanNameAdvisors java.lang.String getBeanName(org.aopalliance.intercept.MethodInvocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.SimpleTraceInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ExposeInvocationInterceptor ADVISOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ExposeBeanNameAdvisors org.springframework.aop.Advisor createAdvisorIntroducingNamedBean(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.AbstractTraceInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.interceptor.PerformanceMonitorInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor void writeToLog(org.apache.commons.logging.Log, java.lang.String, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ExposeBeanNameAdvisors org.springframework.aop.Advisor createAdvisorWithoutIntroduction(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.JamonPerformanceMonitorInterceptor boolean isInterceptorEnabled(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor PLACEHOLDER_ARGUMENT_TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ExposeInvocationInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.JamonPerformanceMonitorInterceptor void trackException(com.jamonapi.MonKey, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.AbstractTraceInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.interceptor.JamonPerformanceMonitorInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.DebugInterceptor java.lang.String getInvocationDescription(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.interceptor.SimpleTraceInterceptor java.lang.String getInvocationDescription(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ExposeBeanNameAdvisors java.lang.String getBeanName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.AbstractMonitoringInterceptor java.lang.String createInvocationTraceName(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.AbstractTraceInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor PLACEHOLDER_ARGUMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.PerformanceMonitorInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.DebugInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.interceptor.SimpleTraceInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ConcurrencyThrottleInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor void writeToLog(org.apache.commons.logging.Log, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.AsyncExecutionAspectSupport void handleError(java.lang.Throwable, java.lang.reflect.Method, java.lang.Object...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.AsyncExecutionInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.AbstractTraceInterceptor boolean isLogEnabled(org.apache.commons.logging.Log) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor PLACEHOLDER_RETURN_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor PLACEHOLDER_TARGET_CLASS_SHORT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor PLACEHOLDER_EXCEPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ExposeInvocationInterceptor org.aopalliance.intercept.MethodInvocation currentInvocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor PLACEHOLDER_METHOD_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.ExposeInvocationInterceptor INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.JamonPerformanceMonitorInterceptor void trackException(com.jamonapi.MonKey, java.lang.Throwable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor PLACEHOLDER_INVOCATION_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.AbstractTraceInterceptor boolean isInterceptorEnabled(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.interceptor.JamonPerformanceMonitorInterceptor java.lang.Object invokeUnderTrace(org.aopalliance.intercept.MethodInvocation, org.apache.commons.logging.Log) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.aop.interceptor.CustomizableTraceInterceptor PLACEHOLDER_TARGET_CLASS_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

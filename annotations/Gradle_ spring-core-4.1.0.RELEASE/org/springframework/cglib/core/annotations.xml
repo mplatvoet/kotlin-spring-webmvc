@@ -1,0 +1,896 @@
+<root>
+    <item name='org.springframework.cglib.core.CollectionUtils void reverse(java.util.Map, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void array_store(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.LocalVariablesSorter void visitLocalVariable(java.lang.String, java.lang.String, java.lang.String, org.springframework.asm.Label, org.springframework.asm.Label, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter org.springframework.asm.MethodVisitor visitMethod(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.KeyFactory OBJECT_BY_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Customizer void customize(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void super_invoke_constructor(org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void add_property(org.springframework.cglib.core.ClassEmitter, java.lang.String, org.springframework.asm.Type, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type getType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_OBJECT_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DuplicatesPredicate boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.Object newInstance(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants SOURCE_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils boolean isPrimitive(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Customizer void customize(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.Constants SIG_STATIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter org.springframework.asm.MethodVisitor visitMethod(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type parseType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils org.springframework.cglib.core.CodeEmitter begin_method(org.springframework.cglib.core.ClassEmitter, org.springframework.cglib.core.MethodInfo, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void process_arrays(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.cglib.core.ProcessArrayCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter CodeEmitter(org.springframework.cglib.core.CodeEmitter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type[] add(org.springframework.asm.Type[], org.springframework.asm.Type[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void wrap_throwable(org.springframework.cglib.core.Block, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.AbstractClassGenerator java.lang.Object nextInstance(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void process_switch(int[], org.springframework.cglib.core.ProcessSwitchCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_BYTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DefaultNamingPolicy java.lang.String getClassName(java.lang.String, java.lang.String, java.lang.Object, org.springframework.cglib.core.Predicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.Class[] getClasses(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.KeyFactory org.springframework.cglib.core.KeyFactory create(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DefaultNamingPolicy java.lang.String getClassName(java.lang.String, java.lang.String, java.lang.Object, org.springframework.cglib.core.Predicate) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CollectionUtils java.util.Collection filter(java.util.Collection, org.springframework.cglib.core.Predicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void process_arrays(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.cglib.core.ProcessArrayCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.cglib.core.Signature getSignature(java.lang.reflect.Member) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void store_local(org.springframework.cglib.core.Local) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils org.springframework.cglib.core.CodeEmitter begin_method(org.springframework.cglib.core.ClassEmitter, org.springframework.cglib.core.MethodInfo, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils DEFAULT_DELIMITERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter org.springframework.cglib.core.Local make_local()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants EMPTY_CLASS_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void process_switch(int[], org.springframework.cglib.core.ProcessSwitchCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter org.springframework.cglib.core.CodeEmitter begin_method(int, org.springframework.cglib.core.Signature, org.springframework.asm.Type[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void constructor_switch(org.springframework.cglib.core.CodeEmitter, java.util.List, org.springframework.cglib.core.ObjectSwitchCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type[] add(org.springframework.asm.Type[], org.springframework.asm.Type[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void unbox_or_zero(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.util.List addAllMethods(java.lang.Class, java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.util.List addAllMethods(java.lang.Class, java.util.List) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Predicate boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void process_arrays(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.cglib.core.ProcessArrayCallback) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method[] findMethods(java.lang.String[], java.lang.reflect.Method[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CollectionUtils java.util.List transform(java.util.Collection, org.springframework.cglib.core.Transformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils java.lang.String getPackageName(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DefaultGeneratorStrategy org.springframework.cglib.core.ClassGenerator transform(org.springframework.cglib.core.ClassGenerator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_STRING_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils int getStackSize(org.springframework.asm.Type[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void getfield(org.springframework.asm.Type, java.lang.String, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void constructor_switch(org.springframework.cglib.core.CodeEmitter, java.util.List, org.springframework.cglib.core.ObjectSwitchCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void newarray(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.KeyFactory.Generator void generateClass(org.springframework.asm.ClassVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void checkcast(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void process_array(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.cglib.core.ProcessArrayCallback) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_static_this(org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type fromInternalName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CollectionUtils java.util.Map getIndexMap(java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void push_array(org.springframework.cglib.core.CodeEmitter, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Constructor findConstructor(java.lang.String, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void load_method(org.springframework.cglib.core.CodeEmitter, org.springframework.cglib.core.MethodInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void throw_exception(org.springframework.asm.Type, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method findDeclaredMethod(java.lang.Class, java.lang.String, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void putfield(org.springframework.asm.Type, java.lang.String, org.springframework.asm.Type) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_constructor_this(org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void constructor_switch(org.springframework.cglib.core.CodeEmitter, java.util.List, org.springframework.cglib.core.ObjectSwitchCallback) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CollectionUtils java.util.List transform(java.util.Collection, org.springframework.cglib.core.Transformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Block Block(org.springframework.cglib.core.CodeEmitter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CollectionUtils java.util.Map getIndexMap(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void wrap_throwable(org.springframework.cglib.core.Block, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_STRING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.LocalVariablesSorter LocalVariablesSorter(org.springframework.cglib.core.LocalVariablesSorter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void process_array(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.cglib.core.ProcessArrayCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.SpringNamingPolicy INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke(org.springframework.cglib.core.MethodInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void push_array(org.springframework.cglib.core.CodeEmitter, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method[] getPropertyMethods(java.beans.PropertyDescriptor[], boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.cglib.core.Signature parseSignature(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void load_method(org.springframework.cglib.core.CodeEmitter, org.springframework.cglib.core.MethodInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter org.springframework.cglib.core.CodeEmitter begin_method(int, org.springframework.cglib.core.Signature, org.springframework.asm.Type[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.MethodWrapper java.lang.Object create(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter org.springframework.cglib.core.Local make_local(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void super_invoke(org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.RejectModifierPredicate boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type parseType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter org.springframework.asm.FieldVisitor visitField(int, java.lang.String, java.lang.String, java.lang.String, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void process_array(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.cglib.core.ProcessArrayCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void super_getfield(java.lang.String, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type getBoxedType(org.springframework.asm.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.MethodInfoTransformer java.lang.Object transform(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void putfield(org.springframework.asm.Type, java.lang.String, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils boolean isConstructor(org.springframework.cglib.core.MethodInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_CLASS_LOADER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void load_local(org.springframework.cglib.core.Local) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils java.lang.String emulateClassGetName(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.AbstractClassGenerator java.lang.Object firstInstance(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter org.springframework.asm.FieldVisitor visitField(int, java.lang.String, java.lang.String, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void string_switch(org.springframework.cglib.core.CodeEmitter, java.lang.String[], int, org.springframework.cglib.core.ObjectSwitchCallback) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method findInterfaceMethod(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ObjectSwitchCallback void processCase(java.lang.Object, org.springframework.asm.Label) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils int NEWARRAY(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Transformer java.lang.Object transform(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void putstatic(org.springframework.asm.Type, java.lang.String, org.springframework.asm.Type) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void swap(org.springframework.asm.Type, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter void begin_class(int, int, java.lang.String, org.springframework.asm.Type, org.springframework.asm.Type[], java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type[] parseTypes(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.cglib.core.Signature parseConstructor(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ProcessArrayCallback void processElement(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void if_cmp(org.springframework.asm.Type, int, org.springframework.asm.Label) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void string_switch(org.springframework.cglib.core.CodeEmitter, java.lang.String[], int, org.springframework.cglib.core.ObjectSwitchCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DefaultNamingPolicy java.lang.String getTag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method findNewInstance(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void add_properties(org.springframework.cglib.core.ClassEmitter, java.lang.String[], org.springframework.asm.Type[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void catch_exception(org.springframework.cglib.core.Block, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.AbstractClassGenerator java.lang.ClassLoader getClassLoader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.Object newInstance(java.lang.Class, java.lang.Class[], java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void not_equals(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.asm.Label, org.springframework.cglib.core.Customizer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CollectionUtils java.util.Collection filter(java.util.Collection, org.springframework.cglib.core.Predicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void hash_code(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, int, org.springframework.cglib.core.Customizer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type[] add(org.springframework.asm.Type[], org.springframework.asm.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void load_class_this(org.springframework.cglib.core.CodeEmitter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.SpringNamingPolicy java.lang.String getTag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter org.springframework.cglib.core.Block begin_block()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DebuggingClassWriter void visit(int, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter void visit(int, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.MethodInfoTransformer java.lang.Object transform(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Constructor getConstructor(java.lang.Class, java.lang.Class[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void swap(org.springframework.asm.Type, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void process_switch(int[], org.springframework.cglib.core.ProcessSwitchCallback, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_BOOLEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.cglib.core.Signature parseConstructor(org.springframework.asm.Type[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void zero_or_null(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type getType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.cglib.core.MethodInfo getMethodInfo(java.lang.reflect.Member, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants SUID_FIELD_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DefaultNamingPolicy INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DebuggingClassWriter DEBUG_LOCATION_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void super_putstatic(java.lang.String, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.MethodInfoTransformer org.springframework.cglib.core.MethodInfoTransformer getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Signature Signature(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void load_class(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type getComponentType(org.springframework.asm.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPES_EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants CONSTRUCTOR_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.KeyFactory CLASS_BY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void process_switch(int[], org.springframework.cglib.core.ProcessSwitchCallback, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void putstatic(org.springframework.asm.Type, java.lang.String, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter org.springframework.asm.Type getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void iinc(org.springframework.cglib.core.Local, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils boolean isArray(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils org.springframework.cglib.core.CodeEmitter begin_method(org.springframework.cglib.core.ClassEmitter, org.springframework.cglib.core.MethodInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CollectionUtils java.util.Map bucket(java.util.Collection, org.springframework.cglib.core.Transformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void math(int, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_RUNTIME_EXCEPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type getComponentType(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_constructor(org.springframework.asm.Type, org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void unbox(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke(org.springframework.cglib.core.MethodInfo, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method findNewInstance(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.Object newInstance(java.lang.reflect.Constructor, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void factory_method(org.springframework.cglib.core.ClassEmitter, org.springframework.cglib.core.Signature) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_SHORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DebuggingClassWriter void visit(int, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void append_string(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.cglib.core.EmitUtils.ArrayDelimiters, org.springframework.cglib.core.Customizer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Constructor findConstructor(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void array_load(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void load_class(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_SIGNATURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.KeyFactory.Generator java.lang.Object nextInstance(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.Signature org.springframework.asm.Type getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.cglib.core.MethodInfo getMethodInfo(java.lang.reflect.Member)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void push_object(org.springframework.cglib.core.CodeEmitter, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.cglib.core.Signature parseConstructor(org.springframework.asm.Type[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils org.springframework.cglib.core.CodeEmitter begin_method(org.springframework.cglib.core.ClassEmitter, org.springframework.cglib.core.MethodInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void hash_code(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, int, org.springframework.cglib.core.Customizer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_BIG_INTEGER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void instance_of(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_SYSTEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_constructor(org.springframework.asm.Type, org.springframework.cglib.core.Signature) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_CHARACTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.VisibilityPredicate VisibilityPredicate(java.lang.Class, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void catch_exception(org.springframework.cglib.core.Block, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils java.lang.String escapeType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.NamingPolicy java.lang.String getClassName(java.lang.String, java.lang.String, java.lang.Object, org.springframework.cglib.core.Predicate) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.Signature org.springframework.asm.Type[] getArgumentTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method findMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.MethodWrapper java.util.Set createSet(java.util.Collection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void factory_method(org.springframework.cglib.core.ClassEmitter, org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.util.List addAllMethods(java.lang.Class, java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_LONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void append_string(org.springframework.cglib.core.CodeEmitter, org.springframework.asm.Type, org.springframework.cglib.core.EmitUtils.ArrayDelimiters, org.springframework.cglib.core.Customizer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void method_switch(org.springframework.cglib.core.CodeEmitter, java.util.List, org.springframework.cglib.core.ObjectSwitchCallback) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.KeyFactory.Generator java.lang.Object firstInstance(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.cglib.core.Signature parseSignature(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DefaultNamingPolicy java.lang.String getClassName(java.lang.String, java.lang.String, java.lang.Object, org.springframework.cglib.core.Predicate) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.cglib.core.MethodInfo getMethodInfo(java.lang.reflect.Member) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter void visit(int, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void new_instance(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.LocalVariablesSorter void visitLocalVariable(java.lang.String, java.lang.String, java.lang.String, org.springframework.asm.Label, org.springframework.asm.Label, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method[] findMethods(java.lang.String[], java.lang.reflect.Method[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_virtual(org.springframework.asm.Type, org.springframework.cglib.core.Signature) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter org.springframework.asm.Label make_label()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.cglib.core.Signature getSignature(java.lang.reflect.Member)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.KeyFactory org.springframework.cglib.core.KeyFactory create(java.lang.Class, org.springframework.cglib.core.Customizer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.NamingPolicy java.lang.String getClassName(java.lang.String, java.lang.String, java.lang.Object, org.springframework.cglib.core.Predicate) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type[] add(org.springframework.asm.Type[], org.springframework.asm.Type[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.cglib.core.ClassInfo getClassInfo(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Constructor getConstructor(java.lang.Class, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.util.List addAllInterfaces(java.lang.Class, java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type[] parseTypes(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.AbstractClassGenerator java.lang.Object firstInstance(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void method_switch(org.springframework.cglib.core.CodeEmitter, java.util.List, org.springframework.cglib.core.ObjectSwitchCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_constructor(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void getfield(org.springframework.asm.Type, java.lang.String, org.springframework.asm.Type) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DefaultGeneratorStrategy org.springframework.cglib.core.DebuggingClassWriter getClassVisitor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_STRING_BUFFER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method[] findMethods(java.lang.String[], java.lang.reflect.Method[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants STATIC_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_virtual(org.springframework.asm.Type, org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void super_putfield(java.lang.String, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void getstatic(org.springframework.asm.Type, java.lang.String, org.springframework.asm.Type) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_static(org.springframework.asm.Type, org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.DebuggingClassWriter void visit(int, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.DefaultGeneratorStrategy INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.NamingPolicy java.lang.String getClassName(java.lang.String, java.lang.String, java.lang.Object, org.springframework.cglib.core.Predicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_THROWABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Signature Signature(java.lang.String, org.springframework.asm.Type, org.springframework.asm.Type[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void null_constructor(org.springframework.cglib.core.ClassEmitter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils org.springframework.asm.Type getBoxedType(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void box(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_INTEGER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.LocalVariablesSorter LocalVariablesSorter(int, java.lang.String, org.springframework.asm.MethodVisitor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_interface(org.springframework.asm.Type, org.springframework.cglib.core.Signature) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void method_switch(org.springframework.cglib.core.CodeEmitter, java.util.List, org.springframework.cglib.core.ObjectSwitchCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassEmitter void visit(int, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_static(org.springframework.asm.Type, org.springframework.cglib.core.Signature) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeGenerationException CodeGenerationException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void super_getstatic(java.lang.String, org.springframework.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_CLASS_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.Class[] getClasses(java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils java.lang.String getPackageName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Constants TYPE_BIG_DECIMAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils int findPackageProtected(java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.LocalVariablesSorter void visitLocalVariable(java.lang.String, java.lang.String, java.lang.String, org.springframework.asm.Label, org.springframework.asm.Label, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.Class defineClass(java.lang.String, byte[], java.lang.ClassLoader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.EmitUtils void add_property(org.springframework.cglib.core.ClassEmitter, java.lang.String, org.springframework.asm.Type, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.VisibilityPredicate boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Signature Signature(java.lang.String, org.springframework.asm.Type, org.springframework.asm.Type[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CollectionUtils java.util.Map bucket(java.util.Collection, org.springframework.cglib.core.Transformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.cglib.core.ClassInfo getClassInfo(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_interface(org.springframework.asm.Type, org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.MethodWrapper java.util.Set createSet(java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void invoke_virtual_this(org.springframework.cglib.core.Signature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.asm.Type[] getExceptionTypes(java.lang.reflect.Member) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.LocalVariablesSorter void visitLocalVariable(java.lang.String, java.lang.String, java.lang.String, org.springframework.asm.Label, org.springframework.asm.Label, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.TypeUtils java.lang.String getClassName(org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils java.lang.reflect.Method findMethod(java.lang.String, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter void getstatic(org.springframework.asm.Type, java.lang.String, org.springframework.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.Signature Signature(java.lang.String, org.springframework.asm.Type, org.springframework.asm.Type[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ReflectUtils org.springframework.cglib.core.MethodInfo getMethodInfo(java.lang.reflect.Member, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cglib.core.ClassGenerator void generateClass(org.springframework.asm.ClassVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.cglib.core.CodeEmitter org.springframework.cglib.core.Local make_local(org.springframework.asm.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

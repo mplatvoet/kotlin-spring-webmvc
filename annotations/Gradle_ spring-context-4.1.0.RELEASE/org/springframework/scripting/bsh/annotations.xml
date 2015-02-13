@@ -1,0 +1,17 @@
+<root>
+    <item name='org.springframework.scripting.bsh.BshScriptEvaluator java.lang.Object evaluate(org.springframework.scripting.ScriptSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scripting.bsh.BshScriptFactory java.lang.Class&lt;?&gt; getScriptedObjectType(org.springframework.scripting.ScriptSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scripting.bsh.BshScriptFactory java.lang.Object getScriptedObject(org.springframework.scripting.ScriptSource, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scripting.bsh.BshScriptFactory boolean requiresScriptedObjectRefresh(org.springframework.scripting.ScriptSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scripting.bsh.BshScriptEvaluator java.lang.Object evaluate(org.springframework.scripting.ScriptSource, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

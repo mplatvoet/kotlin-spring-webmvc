@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.cache.support.AbstractCacheManager void addCache(org.springframework.cache.Cache) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,59 @@
+<root>
+    <item name='org.springframework.core.annotation.AnnotationUtils org.springframework.core.annotation.AnnotationAttributes getAnnotationAttributes(java.lang.annotation.Annotation, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils boolean isAnnotationInherited(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationAwareOrderComparator INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationAwareOrderComparator void sort(java.util.List&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils boolean isAnnotationInherited(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils java.util.Map&lt;java.lang.String,java.lang.Object&gt; getAnnotationAttributes(java.lang.annotation.Annotation, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationAwareOrderComparator void sort(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils java.util.Map&lt;java.lang.String,java.lang.Object&gt; getAnnotationAttributes(java.lang.annotation.Annotation, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils java.util.Map&lt;java.lang.String,java.lang.Object&gt; getAnnotationAttributes(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils java.util.Map&lt;java.lang.String,java.lang.Object&gt; getAnnotationAttributes(java.lang.annotation.Annotation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils java.lang.Object getDefaultValue(java.lang.annotation.Annotation, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils java.lang.Object getDefaultValue(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils boolean isInJavaLangAnnotationPackage(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils boolean isAnnotationDeclaredLocally(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils boolean isAnnotationDeclaredLocally(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils org.springframework.core.annotation.AnnotationAttributes getAnnotationAttributes(java.lang.annotation.Annotation, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils T getAnnotation(java.lang.annotation.Annotation, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.annotation.AnnotationUtils java.lang.Class&lt;?&gt; findAnnotationDeclaringClass(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

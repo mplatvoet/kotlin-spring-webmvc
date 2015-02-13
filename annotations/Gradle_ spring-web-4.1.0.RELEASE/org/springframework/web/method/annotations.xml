@@ -1,0 +1,35 @@
+<root>
+    <item name='org.springframework.web.method.HandlerMethodSelector java.util.Set&lt;java.lang.reflect.Method&gt; selectMethods(java.lang.Class&lt;?&gt;, org.springframework.util.ReflectionUtils.MethodFilter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.HandlerMethod org.springframework.core.MethodParameter getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.HandlerMethod HandlerMethod(org.springframework.web.method.HandlerMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.HandlerMethod HandlerMethod(java.lang.String, org.springframework.beans.factory.BeanFactory, java.lang.reflect.Method) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.HandlerMethod org.springframework.web.method.HandlerMethod createWithResolvedBean()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.HandlerMethodSelector java.util.Set&lt;java.lang.reflect.Method&gt; selectMethods(java.lang.Class&lt;?&gt;, org.springframework.util.ReflectionUtils.MethodFilter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.ControllerAdviceBean ControllerAdviceBean(java.lang.String, org.springframework.beans.factory.BeanFactory) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.HandlerMethod org.springframework.core.MethodParameter getReturnValueType(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.ControllerAdviceBean java.util.List&lt;org.springframework.web.method.ControllerAdviceBean&gt; findAnnotatedBeans(org.springframework.context.ApplicationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.HandlerMethod HandlerMethod(java.lang.Object, java.lang.String, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.method.ControllerAdviceBean ControllerAdviceBean(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

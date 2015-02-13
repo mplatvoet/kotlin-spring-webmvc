@@ -1,0 +1,785 @@
+<root>
+    <item name='org.springframework.expression.spel.ast.Selection org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Indexer void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorBetween org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpOr org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpDivide org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpMinus org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Ternary void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.ConstructorReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.IntLiteral org.springframework.expression.TypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Projection org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpEQ org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.ValueRef org.springframework.expression.TypedValue getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.FormatHelper java.lang.String formatMethodForMessage(java.lang.String, java.util.List&lt;org.springframework.core.convert.TypeDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.RealLiteral org.springframework.expression.TypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Literal org.springframework.expression.spel.ast.Literal getRealLiteral(java.lang.String, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode INT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorBetween org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Indexer void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGE org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpDivide void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl boolean isWritable(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.BooleanLiteral org.springframework.expression.spel.support.BooleanTypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpOr org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpNE org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorInstanceof void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.ConstructorReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorNot org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLE org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.CompoundExpression org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Selection org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpNE org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.MethodReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpEQ void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpNE org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpDivide void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpEQ org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLE void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpDivide org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorInstanceof void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpDec org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLT org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode org.springframework.expression.spel.ast.TypeCode forClass(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLT org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.MethodReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorMatches org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Identifier org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.BeanReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference boolean isWritable(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Elvis void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLT org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.LongLiteral org.springframework.expression.TypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLE void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpOr org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorNot org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Elvis void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.NullLiteral java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Indexer void setValue(org.springframework.expression.spel.ExpressionState, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.MethodReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Operator void generateComparisonCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpNE void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.InlineMap org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.CompoundExpression void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorNot void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.ValueRef.NullValueRef org.springframework.expression.TypedValue getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGT void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.StringLiteral org.springframework.expression.TypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGT org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpInc org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.IntLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.VariableReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Indexer org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Operator void generateComparisonCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorInstanceof org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGE org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpNE void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorNot void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGT void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Indexer org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.BeanReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorNot org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Literal java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpModulus org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.VariableReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Literal org.springframework.expression.TypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.FloatLiteral org.springframework.expression.TypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode BOOLEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGE org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.NullLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpAnd org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpMultiply org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Ternary void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpEQ org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode CHAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorBetween org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.NullLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorInstanceof org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.CompoundExpression CompoundExpression(int, org.springframework.expression.spel.ast.SpelNodeImpl...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.RealLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.MethodReference org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpAnd org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpModulus void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference boolean isWritableProperty(java.lang.String, org.springframework.expression.TypedValue, org.springframework.expression.EvaluationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Elvis org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.RealLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.InlineList org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference void setValue(org.springframework.expression.spel.ExpressionState, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorMatches org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Assign org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpMinus void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.FloatLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.VariableReference void setValue(org.springframework.expression.spel.ExpressionState, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode LONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.CompoundExpression void setValue(org.springframework.expression.spel.ExpressionState, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpOr org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference boolean isWritableProperty(java.lang.String, org.springframework.expression.TypedValue, org.springframework.expression.EvaluationContext) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpMinus void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.FloatLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.AstUtils java.util.List&lt;org.springframework.expression.PropertyAccessor&gt; getPropertyAccessorsToTry(java.lang.Class&lt;?&gt;, java.util.List&lt;org.springframework.expression.PropertyAccessor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.VariableReference org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGT org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Literal org.springframework.expression.spel.ast.Literal getLongLiteral(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorMatches org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Literal org.springframework.expression.spel.ast.Literal getIntLiteral(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.CompoundExpression void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpOr void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.FunctionReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.FunctionReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode BYTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Indexer boolean isWritable(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.AstUtils java.util.List&lt;org.springframework.expression.PropertyAccessor&gt; getPropertyAccessorsToTry(java.lang.Class&lt;?&gt;, java.util.List&lt;org.springframework.expression.PropertyAccessor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.CompoundExpression boolean isWritable(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.VariableReference boolean isWritable(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpMultiply org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.IntLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpOr void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpDec org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpPlus void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.FunctionReference void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Identifier org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGT org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.FunctionReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Indexer org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpMinus org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Projection org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpAnd void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorNot org.springframework.expression.spel.support.BooleanTypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.VariableReference org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorInstanceof org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpPlus org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLT void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLE org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode SHORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.BooleanLiteral org.springframework.expression.TypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.BooleanLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.NullLiteral org.springframework.expression.TypedValue getLiteralValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpPlus void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpMultiply void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.CompoundExpression org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpModulus org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl T getValue(org.springframework.expression.spel.ExpressionState, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpAnd void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpPlus org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode org.springframework.expression.spel.ast.TypeCode forName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLT void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpLE org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.ConstructorReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.BooleanLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpInc org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpMultiply void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorMatches org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.StringLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpEQ void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.LongLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGE void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorPower org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Assign org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.TypeCode OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.QualifiedIdentifier org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.StringLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorBetween org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Ternary org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.LongLiteral void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpModulus void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OpGE void generateCode(org.springframework.asm.MethodVisitor, org.springframework.expression.spel.CodeFlow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.VariableReference org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.PropertyOrFieldReference org.springframework.expression.spel.ast.ValueRef getValueRef(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.SpelNodeImpl void setValue(org.springframework.expression.spel.ExpressionState, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.expression.spel.ast.OperatorPower org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.expression.spel.ast.Literal org.springframework.expression.TypedValue getValueInternal(org.springframework.expression.spel.ExpressionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='org.junit.experimental.ParallelComputer org.junit.runner.Computer methods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.ParallelComputer org.junit.runner.Runner getRunner(org.junit.runners.model.RunnerBuilder, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.ParallelComputer org.junit.runner.Runner getSuite(org.junit.runners.model.RunnerBuilder, java.lang.Class&lt;?&gt;[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.ParallelComputer org.junit.runner.Computer classes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

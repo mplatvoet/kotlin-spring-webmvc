@@ -1,0 +1,44 @@
+<root>
+    <item name='org.springframework.http.server.ServletServerHttpRequest java.net.InetSocketAddress getRemoteAddress()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.server.ServletServerHttpRequest FORM_CHARSET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.server.ServletServerHttpResponse org.springframework.http.HttpHeaders getHeaders()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.server.ServletServerHttpRequest FORM_CONTENT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.server.ServletServerHttpAsyncRequestControl ServletServerHttpAsyncRequestControl(org.springframework.http.server.ServletServerHttpRequest, org.springframework.http.server.ServletServerHttpResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.server.ServletServerHttpResponse void setStatusCode(org.springframework.http.HttpStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.server.ServletServerHttpRequest java.net.InetSocketAddress getLocalAddress()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.server.ServerHttpResponse void setStatusCode(org.springframework.http.HttpStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.server.ServerHttpRequest java.net.InetSocketAddress getRemoteAddress()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.http.server.ServletServerHttpRequest java.net.URI getURI()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.http.server.ServerHttpRequest java.net.InetSocketAddress getLocalAddress()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

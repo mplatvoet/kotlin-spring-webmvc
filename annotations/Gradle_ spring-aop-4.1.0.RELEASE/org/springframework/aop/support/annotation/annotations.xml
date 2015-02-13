@@ -1,0 +1,17 @@
+<root>
+    <item name='org.springframework.aop.support.annotation.AnnotationMethodMatcher boolean matches(java.lang.reflect.Method, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.support.annotation.AnnotationMatchingPointcut org.springframework.aop.ClassFilter getClassFilter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.support.annotation.AnnotationMatchingPointcut org.springframework.aop.MethodMatcher getMethodMatcher()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.support.annotation.AnnotationMatchingPointcut org.springframework.aop.support.annotation.AnnotationMatchingPointcut forClassAnnotation(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.aop.support.annotation.AnnotationMatchingPointcut org.springframework.aop.support.annotation.AnnotationMatchingPointcut forMethodAnnotation(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

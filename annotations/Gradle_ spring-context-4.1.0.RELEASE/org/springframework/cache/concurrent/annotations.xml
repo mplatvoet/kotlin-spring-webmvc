@@ -1,0 +1,8 @@
+<root>
+    <item name='org.springframework.cache.concurrent.ConcurrentMapCacheFactoryBean java.lang.Class&lt;?&gt; getObjectType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.cache.concurrent.ConcurrentMapCacheManager org.springframework.cache.Cache createConcurrentMapCache(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

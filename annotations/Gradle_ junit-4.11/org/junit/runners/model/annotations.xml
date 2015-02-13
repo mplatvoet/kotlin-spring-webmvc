@@ -1,0 +1,47 @@
+<root>
+    <item name='org.junit.runners.model.RunnerBuilder java.util.List&lt;org.junit.runner.Runner&gt; runners(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.RunnerScheduler void schedule(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.junit.runners.model.FrameworkField boolean isShadowedBy(org.junit.runners.model.FrameworkField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.RunnerBuilder java.util.List&lt;org.junit.runner.Runner&gt; runners(java.lang.Class&lt;?&gt;, java.util.List&lt;java.lang.Class&lt;?&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.MultipleFailureException void assertEmpty(java.util.List&lt;java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.RunnerBuilder org.junit.runner.Runner runnerForClass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.junit.runners.model.FrameworkMethod boolean isShadowedBy(org.junit.runners.model.FrameworkMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.RunnerBuilder java.util.List&lt;org.junit.runner.Runner&gt; runners(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.RunnerBuilder java.util.List&lt;org.junit.runner.Runner&gt; runners(java.lang.Class&lt;?&gt;, java.util.List&lt;java.lang.Class&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.FrameworkMethod boolean isShadowedBy(org.junit.runners.model.FrameworkMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.TestClass java.util.List&lt;T&gt; getAnnotatedMethodValues(java.lang.Object, java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.FrameworkField boolean isShadowedBy(org.junit.runners.model.FrameworkMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.runners.model.TestClass java.util.List&lt;T&gt; getAnnotatedFieldValues(java.lang.Object, java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,53 @@
+<root>
+    <item name='org.junit.experimental.theories.internal.Assignments java.lang.Object[] getMethodArguments(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.AllMembersSupplier java.util.List&lt;org.junit.experimental.theories.PotentialAssignment&gt; getValueSources(org.junit.experimental.theories.ParameterSignature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments org.junit.experimental.theories.internal.Assignments allUnassigned(java.lang.reflect.Method, org.junit.runners.model.TestClass) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments org.junit.experimental.theories.internal.Assignments assignNext(org.junit.experimental.theories.PotentialAssignment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.AllMembersSupplier java.util.List&lt;org.junit.experimental.theories.PotentialAssignment&gt; getValueSources(org.junit.experimental.theories.ParameterSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments org.junit.experimental.theories.internal.Assignments allUnassigned(java.lang.reflect.Method, org.junit.runners.model.TestClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments java.lang.Object[] getAllArguments(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments org.junit.experimental.theories.ParameterSupplier getSupplier(org.junit.experimental.theories.ParameterSignature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments org.junit.experimental.theories.ParameterSupplier getSupplier(org.junit.experimental.theories.ParameterSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.ParameterizedAssertionError boolean equals(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments org.junit.experimental.theories.ParameterSupplier getAnnotatedSupplier(org.junit.experimental.theories.ParameterSignature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments java.lang.Object[] getArgumentStrings(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.ParameterizedAssertionError java.lang.String join(java.lang.String, java.util.Collection&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments org.junit.experimental.theories.internal.Assignments allUnassigned(java.lang.reflect.Method, org.junit.runners.model.TestClass)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments java.lang.Object[] getActualValues(int, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.internal.Assignments java.lang.Object[] getConstructorArguments(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

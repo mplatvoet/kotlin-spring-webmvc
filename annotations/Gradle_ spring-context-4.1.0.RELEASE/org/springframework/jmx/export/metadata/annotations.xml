@@ -1,0 +1,35 @@
+<root>
+    <item name='org.springframework.jmx.export.metadata.JmxMetadataUtils javax.management.modelmbean.ModelMBeanNotificationInfo convertToModelMBeanNotificationInfo(org.springframework.jmx.export.metadata.ManagedNotification) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.metadata.ManagedAttribute EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.metadata.JmxAttributeSource org.springframework.jmx.export.metadata.ManagedNotification[] getManagedNotifications(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.metadata.JmxAttributeSource org.springframework.jmx.export.metadata.ManagedOperationParameter[] getManagedOperationParameters(java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.metadata.JmxAttributeSource org.springframework.jmx.export.metadata.ManagedNotification[] getManagedNotifications(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.jmx.export.metadata.JmxMetadataUtils javax.management.modelmbean.ModelMBeanNotificationInfo convertToModelMBeanNotificationInfo(org.springframework.jmx.export.metadata.ManagedNotification)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.jmx.export.metadata.JmxAttributeSource org.springframework.jmx.export.metadata.ManagedResource getManagedResource(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

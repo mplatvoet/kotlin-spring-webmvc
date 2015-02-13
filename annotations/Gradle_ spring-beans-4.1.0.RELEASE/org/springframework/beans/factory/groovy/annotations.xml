@@ -1,0 +1,29 @@
+<root>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader GroovyBeanDefinitionReader(org.springframework.beans.factory.xml.XmlBeanDefinitionReader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader void xmlns(java.util.Map&lt;java.lang.String,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader invokeBeanDefiningClosure(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader beans(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader org.springframework.beans.factory.support.GenericBeanDefinition bean(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader int loadBeanDefinitions(org.springframework.core.io.support.EncodedResource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader beans(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader invokeBeanDefiningClosure(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader java.lang.Object invokeMethod(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

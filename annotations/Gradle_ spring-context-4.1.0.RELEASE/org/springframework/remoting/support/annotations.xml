@@ -1,0 +1,65 @@
+<root>
+    <item name='org.springframework.remoting.support.RemoteInvocation java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationBasedExporter org.springframework.remoting.support.RemoteInvocationResult invokeAndCreateResult(org.springframework.remoting.support.RemoteInvocation, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.DefaultRemoteInvocationFactory org.springframework.remoting.support.RemoteInvocation createRemoteInvocation(org.aopalliance.intercept.MethodInvocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocation RemoteInvocation(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.DefaultRemoteInvocationExecutor java.lang.Object invoke(org.springframework.remoting.support.RemoteInvocation, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.DefaultRemoteInvocationExecutor java.lang.Object invoke(org.springframework.remoting.support.RemoteInvocation, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationFactory org.springframework.remoting.support.RemoteInvocation createRemoteInvocation(org.aopalliance.intercept.MethodInvocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationTraceInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationExecutor java.lang.Object invoke(org.springframework.remoting.support.RemoteInvocation, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationBasedExporter java.lang.Object invoke(org.springframework.remoting.support.RemoteInvocation, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationBasedAccessor java.lang.Object recreateRemoteInvocationResult(org.springframework.remoting.support.RemoteInvocationResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationExecutor java.lang.Object invoke(org.springframework.remoting.support.RemoteInvocation, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationBasedExporter java.lang.Object invoke(org.springframework.remoting.support.RemoteInvocation, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.support.DefaultRemoteInvocationFactory org.springframework.remoting.support.RemoteInvocation createRemoteInvocation(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.support.RemoteInvocationFactory org.springframework.remoting.support.RemoteInvocation createRemoteInvocation(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

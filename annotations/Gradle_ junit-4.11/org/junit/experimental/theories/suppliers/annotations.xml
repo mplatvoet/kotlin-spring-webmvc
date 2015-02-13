@@ -1,0 +1,8 @@
+<root>
+    <item name='org.junit.experimental.theories.suppliers.TestedOnSupplier java.util.List&lt;org.junit.experimental.theories.PotentialAssignment&gt; getValueSources(org.junit.experimental.theories.ParameterSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.experimental.theories.suppliers.TestedOnSupplier java.util.List&lt;org.junit.experimental.theories.PotentialAssignment&gt; getValueSources(org.junit.experimental.theories.ParameterSignature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

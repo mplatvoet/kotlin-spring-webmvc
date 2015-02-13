@@ -1,0 +1,11 @@
+<root>
+    <item name='org.springframework.scripting.config.LangNamespaceUtils org.springframework.beans.factory.config.BeanDefinition registerScriptFactoryPostProcessorIfNecessary(org.springframework.beans.factory.support.BeanDefinitionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scripting.config.ScriptingDefaultsParser org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.scripting.config.ScriptingDefaultsParser org.springframework.beans.factory.config.BeanDefinition parse(org.w3c.dom.Element, org.springframework.beans.factory.xml.ParserContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

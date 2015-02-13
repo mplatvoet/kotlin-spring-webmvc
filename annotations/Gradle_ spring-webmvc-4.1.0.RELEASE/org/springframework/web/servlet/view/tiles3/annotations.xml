@@ -1,0 +1,53 @@
+<root>
+    <item name='org.springframework.web.servlet.view.tiles3.TilesViewResolver java.lang.Class&lt;?&gt; requiredViewClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.TilesView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.TilesView org.apache.tiles.request.Request createTilesRequest(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.SpringBeanPreparerFactory org.apache.tiles.preparer.ViewPreparer getPreparer(java.lang.String, org.springframework.web.context.WebApplicationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.SimpleSpringPreparerFactory org.apache.tiles.preparer.ViewPreparer getPreparer(java.lang.String, org.springframework.web.context.WebApplicationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.TilesViewResolver org.springframework.web.servlet.view.AbstractUrlBasedView buildView(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.TilesView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.SpringWildcardServletTilesApplicationContext org.apache.tiles.request.ApplicationResource getResource(org.apache.tiles.request.ApplicationResource, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.AbstractSpringPreparerFactory org.apache.tiles.preparer.ViewPreparer getPreparer(java.lang.String, org.springframework.web.context.WebApplicationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.TilesView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.AbstractSpringPreparerFactory org.apache.tiles.preparer.ViewPreparer getPreparer(java.lang.String, org.apache.tiles.request.Request) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.tiles3.TilesViewResolver org.springframework.web.servlet.view.tiles3.TilesView buildView(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

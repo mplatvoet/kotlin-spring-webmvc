@@ -1,0 +1,62 @@
+<root>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartResolver org.springframework.web.multipart.MultipartHttpServletRequest resolveMultipart(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsFileUploadSupport void cleanupFileItems(org.springframework.util.MultiValueMap&lt;java.lang.String,org.springframework.web.multipart.MultipartFile&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartResolver org.springframework.web.multipart.commons.CommonsFileUploadSupport.MultipartParsingResult parseRequest(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartFile void transferTo(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsFileUploadSupport org.apache.commons.fileupload.disk.DiskFileItemFactory newFileItemFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartFile byte[] getBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartFile java.io.InputStream getInputStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsFileUploadSupport java.lang.String getDefaultEncoding()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsFileUploadSupport org.apache.commons.fileupload.disk.DiskFileItemFactory getFileItemFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsFileUploadSupport void setUploadTempDir(org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartResolver void setServletContext(javax.servlet.ServletContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartResolver org.apache.commons.fileupload.FileUpload newFileUpload(org.apache.commons.fileupload.FileItemFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartResolver java.lang.String determineEncoding(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsMultipartResolver boolean isMultipart(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsFileUploadSupport org.springframework.web.multipart.commons.CommonsFileUploadSupport.MultipartParsingResult parseFileItems(java.util.List&lt;org.apache.commons.fileupload.FileItem&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsFileUploadSupport org.springframework.web.multipart.commons.CommonsFileUploadSupport.MultipartParsingResult parseFileItems(java.util.List&lt;org.apache.commons.fileupload.FileItem&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.multipart.commons.CommonsFileUploadSupport org.apache.commons.fileupload.FileUpload newFileUpload(org.apache.commons.fileupload.FileItemFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

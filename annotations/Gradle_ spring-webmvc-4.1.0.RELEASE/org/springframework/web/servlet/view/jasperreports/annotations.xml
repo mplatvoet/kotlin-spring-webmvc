@@ -1,0 +1,95 @@
+<root>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView void exposeLocalizationContext(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsSingleFormatView net.sf.jasperreports.engine.JRExporter createExporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView net.sf.jasperreports.engine.JRDataSource getReportData(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView java.lang.Class&lt;?&gt;[] getReportDataTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.JasperReportsViewResolver java.lang.Class&lt;?&gt; requiredViewClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.JasperReportsMultiFormatView void renderReport(net.sf.jasperreports.engine.JasperPrint, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView void renderReport(net.sf.jasperreports.engine.JasperPrint, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.JasperReportsMultiFormatView DEFAULT_FORMAT_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView net.sf.jasperreports.engine.JRExporterParameter getExporterParameter(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.JasperReportsPdfView net.sf.jasperreports.engine.JRExporter createExporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsSingleFormatView void renderReport(net.sf.jasperreports.engine.JasperPrint, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView net.sf.jasperreports.engine.JasperPrint fillReport(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.JasperReportsXlsView net.sf.jasperreports.engine.JRExporter createExporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView void exposeLocalizationContext(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView net.sf.jasperreports.engine.JRDataSource createReport(net.sf.jasperreports.engine.JRDataSourceProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView net.sf.jasperreports.engine.JasperReport loadReport(org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView void renderMergedOutputModel(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.JasperReportsCsvView net.sf.jasperreports.engine.JRExporter createExporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsSingleFormatView void renderReportUsingWriter(net.sf.jasperreports.engine.JRExporter, net.sf.jasperreports.engine.JasperPrint, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView CONTENT_DISPOSITION_INLINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.JasperReportsViewResolver org.springframework.web.servlet.view.AbstractUrlBasedView buildView(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsSingleFormatView void renderReportUsingWriter(net.sf.jasperreports.engine.JRExporter, net.sf.jasperreports.engine.JasperPrint, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView HEADER_CONTENT_DISPOSITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.JasperReportsHtmlView net.sf.jasperreports.engine.JRExporter createExporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.servlet.view.jasperreports.AbstractJasperReportsView net.sf.jasperreports.engine.JRExporterParameter convertToExporterParameter(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

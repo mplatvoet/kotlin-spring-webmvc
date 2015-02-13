@@ -1,0 +1,80 @@
+<root>
+    <item name='org.springframework.remoting.jaxws.SimpleHttpServerJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.jws.WebService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleHttpServerJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.jws.WebService) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.AbstractJaxWsServiceExporter void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.AbstractJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.xml.ws.WebServiceProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.jaxws.JaxWsPortClientInterceptor java.lang.Object doInvoke(org.aopalliance.intercept.MethodInvocation, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.jws.WebService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.AbstractJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.xml.ws.WebServiceProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleHttpServerJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.xml.ws.WebServiceProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleHttpServerJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.xml.ws.WebServiceProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.jws.WebService) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleJaxWsServiceExporter java.lang.String calculateEndpointAddress(javax.xml.ws.Endpoint, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.JaxWsPortClientInterceptor java.lang.Object doInvoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.xml.ws.WebServiceProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.xml.ws.WebServiceProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.JaxWsSoapFaultException JaxWsSoapFaultException(javax.xml.ws.soap.SOAPFaultException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.SimpleJaxWsServiceExporter DEFAULT_BASE_ADDRESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.AbstractJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.jws.WebService) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.jaxws.LocalJaxWsServiceFactory void setWsdlDocumentResource(org.springframework.core.io.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.JaxWsPortClientInterceptor java.lang.Object getPortStub(javax.xml.ws.Service, javax.xml.namespace.QName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.LocalJaxWsServiceFactory javax.xml.namespace.QName getQName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.remoting.jaxws.AbstractJaxWsServiceExporter void publishEndpoint(javax.xml.ws.Endpoint, javax.jws.WebService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.remoting.jaxws.JaxWsPortClientInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

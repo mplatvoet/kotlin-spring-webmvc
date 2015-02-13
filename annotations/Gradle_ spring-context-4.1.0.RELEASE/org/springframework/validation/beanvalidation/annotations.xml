@@ -1,0 +1,29 @@
+<root>
+    <item name='org.springframework.validation.beanvalidation.MethodValidationInterceptor MethodValidationInterceptor(javax.validation.ValidatorFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.beanvalidation.SpringValidatorAdapter java.lang.Object[] getArgumentsForConstraint(java.lang.String, java.lang.String, javax.validation.metadata.ConstraintDescriptor&lt;?&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.beanvalidation.MethodValidationInterceptor java.lang.Object invoke(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.beanvalidation.MethodValidationPostProcessor void setValidatorFactory(javax.validation.ValidatorFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.beanvalidation.MessageSourceResourceBundleLocator java.util.ResourceBundle getResourceBundle(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.beanvalidation.SpringValidatorAdapter void processConstraintViolations(java.util.Set&lt;javax.validation.ConstraintViolation&lt;java.lang.Object&gt;&gt;, org.springframework.validation.Errors) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.beanvalidation.LocalValidatorFactoryBean java.util.Map&lt;java.lang.String,java.lang.String&gt; getValidationPropertyMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.beanvalidation.BeanValidationPostProcessor void setValidatorFactory(javax.validation.ValidatorFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.validation.beanvalidation.MethodValidationInterceptor java.lang.Class&lt;?&gt;[] determineValidationGroups(org.aopalliance.intercept.MethodInvocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

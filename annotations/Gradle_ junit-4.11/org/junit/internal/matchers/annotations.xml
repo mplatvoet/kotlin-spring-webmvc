@@ -1,0 +1,68 @@
+<root>
+    <item name='org.junit.internal.matchers.ThrowableMessageMatcher boolean matchesSafely(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableMessageMatcher boolean matchesSafely(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.StacktracePrintingMatcher org.hamcrest.Matcher&lt;T&gt; isException(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableMessageMatcher org.hamcrest.Matcher&lt;T&gt; hasMessage(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableCauseMatcher void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableCauseMatcher boolean matchesSafely(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableCauseMatcher void describeMismatchSafely(T, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableMessageMatcher void describeMismatchSafely(java.lang.Object, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableMessageMatcher void describeMismatchSafely(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableCauseMatcher boolean matchesSafely(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableCauseMatcher void describeMismatchSafely(java.lang.Object, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableCauseMatcher void describeMismatchSafely(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableMessageMatcher void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableCauseMatcher void describeMismatchSafely(T, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableCauseMatcher org.hamcrest.Matcher&lt;T&gt; hasCause(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.StacktracePrintingMatcher void describeMismatchSafely(java.lang.Object, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.StacktracePrintingMatcher org.hamcrest.Matcher&lt;T&gt; isThrowable(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.StacktracePrintingMatcher void describeMismatchSafely(java.lang.Object, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.StacktracePrintingMatcher void describeMismatchSafely(T, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableMessageMatcher void describeMismatchSafely(T, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.StacktracePrintingMatcher void describeMismatchSafely(T, org.hamcrest.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.internal.matchers.ThrowableMessageMatcher void describeMismatchSafely(T, org.hamcrest.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

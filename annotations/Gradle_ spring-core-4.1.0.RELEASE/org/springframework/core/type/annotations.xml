@@ -1,0 +1,50 @@
+<root>
+    <item name='org.springframework.core.type.StandardMethodMetadata java.lang.reflect.Method getIntrospectedMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.AnnotationMetadata java.util.Set&lt;java.lang.String&gt; getAnnotationTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.type.StandardAnnotationMetadata StandardAnnotationMetadata(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.StandardMethodMetadata StandardMethodMetadata(java.lang.reflect.Method, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.ClassMetadata java.lang.String[] getInterfaceNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.type.StandardAnnotationMetadata java.util.Set&lt;java.lang.String&gt; getAnnotationTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.StandardAnnotationMetadata java.util.Set&lt;org.springframework.core.type.MethodMetadata&gt; getAnnotatedMethods(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.StandardClassMetadata java.lang.String[] getInterfaceNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.AnnotationMetadata java.util.Set&lt;org.springframework.core.type.MethodMetadata&gt; getAnnotatedMethods(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.core.type.StandardMethodMetadata StandardMethodMetadata(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.StandardAnnotationMetadata StandardAnnotationMetadata(java.lang.Class&lt;?&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.StandardClassMetadata StandardClassMetadata(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.core.type.StandardClassMetadata java.lang.Class&lt;?&gt; getIntrospectedClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

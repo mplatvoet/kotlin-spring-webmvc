@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.validation.support.BindingAwareModelMap void putAll(java.util.Map&lt;? extends java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

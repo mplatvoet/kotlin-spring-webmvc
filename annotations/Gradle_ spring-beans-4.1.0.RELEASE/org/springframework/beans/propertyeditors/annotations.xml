@@ -1,0 +1,71 @@
+<root>
+    <item name='org.springframework.beans.propertyeditors.CustomBooleanEditor VALUE_FALSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.ResourceBundleEditor BASE_NAME_SEPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomMapEditor CustomMapEditor(java.lang.Class&lt;? extends java.util.Map&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomBooleanEditor VALUE_ON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.ResourceBundleEditor void setAsText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomNumberEditor CustomNumberEditor(java.lang.Class&lt;? extends java.lang.Number&gt;, java.text.NumberFormat, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.ByteArrayPropertyEditor java.lang.String getAsText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomBooleanEditor VALUE_YES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomMapEditor java.util.Map&lt;java.lang.Object,java.lang.Object&gt; createMap(java.lang.Class&lt;? extends java.util.Map&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomBooleanEditor VALUE_OFF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomBooleanEditor VALUE_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.URIEditor java.net.URI createURI(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomBooleanEditor VALUE_TRUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.URIEditor java.net.URI createURI(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomBooleanEditor VALUE_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomCollectionEditor CustomCollectionEditor(java.lang.Class&lt;? extends java.util.Collection&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomCollectionEditor java.util.Collection&lt;java.lang.Object&gt; createCollection(java.lang.Class&lt;? extends java.util.Collection&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomCollectionEditor CustomCollectionEditor(java.lang.Class&lt;? extends java.util.Collection&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomBooleanEditor VALUE_NO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomNumberEditor CustomNumberEditor(java.lang.Class&lt;? extends java.lang.Number&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CustomMapEditor CustomMapEditor(java.lang.Class&lt;? extends java.util.Map&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.CharArrayPropertyEditor java.lang.String getAsText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.propertyeditors.StringArrayPropertyEditor DEFAULT_SEPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

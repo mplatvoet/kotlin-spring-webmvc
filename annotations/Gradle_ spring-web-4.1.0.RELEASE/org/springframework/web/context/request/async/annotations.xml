@@ -1,0 +1,77 @@
+<root>
+    <item name='org.springframework.web.context.request.async.WebAsyncUtils org.springframework.web.context.request.async.WebAsyncManager getAsyncManager(org.springframework.web.context.request.WebRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.WebAsyncManager void startDeferredResultProcessing(org.springframework.web.context.request.async.DeferredResult&lt;?&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.WebAsyncUtils org.springframework.web.context.request.async.WebAsyncManager getAsyncManager(org.springframework.web.context.request.WebRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.TimeoutCallableProcessingInterceptor java.lang.Object handleTimeout(org.springframework.web.context.request.NativeWebRequest, java.util.concurrent.Callable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.CallableProcessingInterceptor java.lang.Object handleTimeout(org.springframework.web.context.request.NativeWebRequest, java.util.concurrent.Callable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.context.request.async.WebAsyncUtils org.springframework.web.context.request.async.WebAsyncManager getAsyncManager(javax.servlet.ServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.DeferredResultProcessingInterceptorAdapter boolean handleTimeout(org.springframework.web.context.request.NativeWebRequest, org.springframework.web.context.request.async.DeferredResult&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.context.request.async.CallableProcessingInterceptor java.lang.Object handleTimeout(org.springframework.web.context.request.NativeWebRequest, java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.context.request.async.CallableProcessingInterceptor RESULT_NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.DeferredResultProcessingInterceptor boolean handleTimeout(org.springframework.web.context.request.NativeWebRequest, org.springframework.web.context.request.async.DeferredResult&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.context.request.async.WebAsyncManager void registerDeferredResultInterceptors(org.springframework.web.context.request.async.DeferredResultProcessingInterceptor...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.CallableProcessingInterceptorAdapter java.lang.Object handleTimeout(org.springframework.web.context.request.NativeWebRequest, java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.context.request.async.TimeoutCallableProcessingInterceptor java.lang.Object handleTimeout(org.springframework.web.context.request.NativeWebRequest, java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.WebAsyncUtils org.springframework.web.context.request.async.WebAsyncManager getAsyncManager(javax.servlet.ServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.TimeoutDeferredResultProcessingInterceptor boolean handleTimeout(org.springframework.web.context.request.NativeWebRequest, org.springframework.web.context.request.async.DeferredResult&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.CallableProcessingInterceptor RESPONSE_HANDLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.WebAsyncManager void startCallableProcessing(org.springframework.web.context.request.async.WebAsyncTask&lt;?&gt;, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.web.context.request.async.CallableProcessingInterceptorAdapter java.lang.Object handleTimeout(org.springframework.web.context.request.NativeWebRequest, java.util.concurrent.Callable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.web.context.request.async.WebAsyncManager void registerCallableInterceptors(org.springframework.web.context.request.async.CallableProcessingInterceptor...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

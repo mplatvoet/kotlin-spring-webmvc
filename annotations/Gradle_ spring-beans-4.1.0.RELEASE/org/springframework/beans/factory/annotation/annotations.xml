@@ -1,0 +1,98 @@
+<root>
+    <item name='org.springframework.beans.factory.annotation.AnnotatedBeanDefinition org.springframework.core.type.AnnotationMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor java.lang.Object postProcessBeforeInitialization(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.Autowire BY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition AnnotatedGenericBeanDefinition(org.springframework.core.type.AnnotationMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor void postProcessBeforeDestruction(java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.InjectionMetadata.InjectedElement void checkResourceType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.Autowire NO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor void setBeanFactory(org.springframework.beans.factory.BeanFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.BeanFactoryAnnotationUtils T qualifiedBeanOfType(org.springframework.beans.factory.BeanFactory, java.lang.Class&lt;T&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor org.springframework.beans.PropertyValues postProcessPropertyValues(org.springframework.beans.PropertyValues, java.beans.PropertyDescriptor[], java.lang.Object, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition org.springframework.core.type.AnnotationMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.QualifierAnnotationAutowireCandidateResolver java.lang.Object extractValue(java.lang.annotation.Annotation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.QualifierAnnotationAutowireCandidateResolver boolean checkQualifier(org.springframework.beans.factory.config.BeanDefinitionHolder, java.lang.annotation.Annotation, org.springframework.beans.TypeConverter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor java.util.Map&lt;java.lang.String,T&gt; findAutowireCandidates(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor java.lang.Object postProcessBeforeInitialization(java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.QualifierAnnotationAutowireCandidateResolver java.lang.Object getSuggestedValue(org.springframework.beans.factory.config.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.QualifierAnnotationAutowireCandidateResolver java.lang.annotation.Annotation getFactoryMethodAnnotation(org.springframework.beans.factory.support.RootBeanDefinition, java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolver org.springframework.beans.factory.wiring.BeanWiringInfo buildWiringInfo(java.lang.Object, org.springframework.beans.factory.annotation.Configurable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolver org.springframework.beans.factory.wiring.BeanWiringInfo resolveWiringInfo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor org.springframework.beans.PropertyValues postProcessPropertyValues(org.springframework.beans.PropertyValues, java.beans.PropertyDescriptor[], java.lang.Object, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor void processInjection(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolver org.springframework.beans.factory.wiring.BeanWiringInfo buildWiringInfo(java.lang.Object, org.springframework.beans.factory.annotation.Configurable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor boolean determineRequiredStatus(org.springframework.core.annotation.AnnotationAttributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.Autowire BY_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.QualifierAnnotationAutowireCandidateResolver boolean checkQualifier(org.springframework.beans.factory.config.BeanDefinitionHolder, java.lang.annotation.Annotation, org.springframework.beans.TypeConverter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor boolean isRequiredProperty(java.beans.PropertyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.QualifierAnnotationAutowireCandidateResolver java.lang.Object findValue(java.lang.annotation.Annotation[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.springframework.beans.factory.annotation.QualifierAnnotationAutowireCandidateResolver boolean isAutowireCandidate(org.springframework.beans.factory.config.BeanDefinitionHolder, org.springframework.beans.factory.config.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
