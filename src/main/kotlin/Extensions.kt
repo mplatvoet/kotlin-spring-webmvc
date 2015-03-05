@@ -4,6 +4,7 @@ import org.springframework.web.context.support.AnnotationConfigWebApplicationCon
 import org.springframework.web.servlet.view.velocity.VelocityConfigurer
 import java.util.Properties
 
+
 //just makes the bootstrap a bit cleaner to read
 inline fun <reified T : Any> AnnotationConfigWebApplicationContext.register() = this.register(javaClass<T>())
 

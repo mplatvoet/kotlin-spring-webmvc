@@ -16,12 +16,15 @@ import org.springframework.web.servlet.view.velocity.VelocityConfigurer
 import org.springframework.web.servlet.view.velocity.VelocityViewResolver
 import org.springframework.web.servlet.ViewResolver
 
-/**
- * Created by mplatvoet on 11-9-2014.
+/*
+This is our web application entry point. This gets discovered no matter in what package this is hidden.
  */
-
 class Bootstrap : WebApplicationInitializer {
     override fun onStartup(ctx: ServletContext) {
+        //Just for the sake of demonstration we are configuring this application
+        //with two configuration files. an application config which contains our services
+        //and an web config which contains our controllers
+
         //AppConfig
         val appCtx = AnnotationConfigWebApplicationContext()
         appCtx.register<AppConfig>()
@@ -36,26 +39,4 @@ class Bootstrap : WebApplicationInitializer {
     }
 }
 
-configuration
-open class AppConfig {
-    open bean fun textProvider() = StaticTextProvider("Hello World")
-}
 
-configuration enableWebMvc componentScan(basePackages = array("nl.mplatvoet.kotlin.web.controller"))
-open class WebConfig : WebMvcConfigurerAdapter() {
-    override fun addResourceHandlers(registry: ResourceHandlerRegistry) {
-        registry.addResourceHandler("/static/**").addResourceLocations("/static/")
-    }
-
-    bean open fun velocityConfig(): VelocityConfigurer  = VelocityConfigurer().setProperties { props ->
-        props["resource.loader"] = "class"
-        props["class.resource.loader.class"] = "org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader"
-    }
-
-    bean open fun velocityViewResolver(): ViewResolver {
-        val resolver = VelocityViewResolver()
-        resolver.setPrefix("/vm/")
-        resolver.setSuffix(".vm")
-        return resolver
-    }
-}
