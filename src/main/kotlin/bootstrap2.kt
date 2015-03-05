@@ -19,7 +19,7 @@ import org.springframework.web.servlet.ViewResolver
 /*
 This is our web application entry point. This gets discovered no matter in what package this is hidden.
  */
-class Bootstrap : WebApplicationInitializer {
+class bootstrap2 : WebApplicationInitializer {
     override fun onStartup(ctx: ServletContext) {
         //Just for the sake of demonstration we are configuring this application
         //with two configuration files. an application config which contains our services
