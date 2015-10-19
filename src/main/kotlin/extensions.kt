@@ -6,7 +6,7 @@ import java.util.Properties
 
 
 //just makes the bootstrap a bit cleaner to read
-inline fun <reified T : Any> AnnotationConfigWebApplicationContext.register() = this.register(javaClass<T>())
+inline fun <reified T : Any> AnnotationConfigWebApplicationContext.register() = this.register(T::class.java)
 
 
 fun VelocityConfigurer.setProperties(fn: (Properties) -> Unit) : VelocityConfigurer {

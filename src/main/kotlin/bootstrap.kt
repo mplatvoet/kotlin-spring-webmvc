@@ -1,20 +1,10 @@
 package nl.mplatvoet.kotlin.web
 
 import org.springframework.web.WebApplicationInitializer
-import javax.servlet.ServletContext
-import org.springframework.web.context.support.AnnotationConfigWebApplicationContext
 import org.springframework.web.context.ContextLoaderListener
+import org.springframework.web.context.support.AnnotationConfigWebApplicationContext
 import org.springframework.web.servlet.DispatcherServlet
-import org.springframework.context.annotation.Configuration as configuration
-import org.springframework.web.servlet.config.annotation.EnableWebMvc as enableWebMvc
-import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
-import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry
-import org.springframework.context.annotation.Bean as bean
-import org.springframework.context.annotation.ComponentScan as componentScan
-import org.springframework.context.annotation.Bean as bean
-import org.springframework.web.servlet.view.velocity.VelocityConfigurer
-import org.springframework.web.servlet.view.velocity.VelocityViewResolver
-import org.springframework.web.servlet.ViewResolver
+import javax.servlet.ServletContext
 
 /*
 This is our web application entry point. This gets discovered no matter in what package this is hidden.

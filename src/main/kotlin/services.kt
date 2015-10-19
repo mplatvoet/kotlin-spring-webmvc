@@ -1,6 +1,6 @@
 package nl.mplatvoet.kotlin.web
 
-trait TextProvider {
+interface TextProvider {
     val value: String
 }
 
